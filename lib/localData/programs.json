@@ -1,0 +1,6251 @@
+{
+"programs" :[
+    {
+      "name": "3D animation and digital design"
+    },
+    {
+      "name": "Aboriginal - Community and Social Development"
+    },
+    {
+      "name": "Aboriginal Business"
+    },
+    {
+      "name": "Aboriginal Visual Culture"
+    },
+    {
+      "name": "Accessible Experiential Learning (CUAEL) Project"
+    },
+    {
+      "name": "Accountancy"
+    },
+    {
+      "name": "Accounting"
+    },
+    {
+      "name": "Accounting & management Technology"
+    },
+    {
+      "name": "Accounting & Payroll Administrator"
+    },
+    {
+      "name": "Accounting & Payroll Specialist"
+    },
+    {
+      "name": "Accounting (CPA)"
+    },
+    {
+      "name": "Accounting and Finance"
+    },
+    {
+      "name": "Accounting and Financial Services and Administration"
+    },
+    {
+      "name": "Accounting and Management"
+    },
+    {
+      "name": "Accounting and Management Technology"
+    },
+    {
+      "name": "Accounting and Management Technology (Business Administration)"
+    },
+    {
+      "name": "Accounting and Payroll"
+    },
+    {
+      "name": "Accounting and Payroll Administration"
+    },
+    {
+      "name": "Accounting and Payroll Administrator"
+    },
+    {
+      "name": "Accounting Audit"
+    },
+    {
+      "name": "Accounting Management"
+    },
+    {
+      "name": "Accounting Principles and Software Applications"
+    },
+    {
+      "name": "Accounting Stream"
+    },
+    {
+      "name": "Accounting technician"
+    },
+    {
+      "name": "Accounting Techniques and Administration"
+    },
+    {
+      "name": "Accounting"
+    },
+    {
+      "name": "Acting"
+    },
+    {
+      "name": "Actuarial & Financial Mathematics"
+    },
+    {
+      "name": "Actuarial mathematics"
+    },
+    {
+      "name": "Actuarial Science"
+    },
+    {
+      "name": "Actuarial Science - Finance Option"
+    },
+    {
+      "name": "Actuarial Science - Predictive Analytics Option"
+    },
+    {
+      "name": "Adapted movement science"
+    },
+    {
+      "name": "Adapted Physical Activity"
+    },
+    {
+      "name": "Addictions Community Outreach"
+    },
+    {
+      "name": "Adjoint administratif"
+    },
+    {
+      "name": "Administration"
+    },
+    {
+      "name": "Administration and Finance"
+    },
+    {
+      "name": "Administrative Assistant"
+    },
+    {
+      "name": "Administrative major"
+    },
+    {
+      "name": "Administrative Specialist"
+    },
+    {
+      "name": "Administrative Technics-Management accounting"
+    },
+    {
+      "name": "Administrative Techniques - Management of small and medium organisations"
+    },
+    {
+      "name": "Administrative Techniques"
+    },
+    {
+      "name": "Adult Development"
+    },
+    {
+      "name": "Advanced Care Paramedic"
+    },
+    {
+      "name": "Advanced Chemistry"
+    },
+    {
+      "name": "Advanced Diploma In Human Resource Management"
+    },
+    {
+      "name": "Advanced Materials and Manufacturing"
+    },
+    {
+      "name": "Advanced Physics"
+    },
+    {
+      "name": "Advanced Practice Nursing & Health Informatics (online)"
+    },
+    {
+      "name": "Advanced Risk communication in a Disaster"
+    },
+    {
+      "name": "Adventure Recreation and Parks"
+    },
+    {
+      "name": "Adventure Tourism"
+    },
+    {
+      "name": "Advertising"
+    },
+    {
+      "name": "AEC Administration support"
+    },
+    {
+      "name": "Aeronautical Construction Technics"
+    },
+    {
+      "name": "Aerospace Engineering"
+    },
+    {
+      "name": "Aerospace Manufacturing Technology"
+    },
+    {
+      "name": "African Studies"
+    },
+    {
+      "name": "Agribusiness"
+    },
+    {
+      "name": "Agricultural and Environmental Sciences"
+    },
+    {
+      "name": "Agricultural and Food Sciences"
+    },
+    {
+      "name": "Agricultural Biology Stream"
+    },
+    {
+      "name": "Agricultural Biotechnology"
+    },
+    {
+      "name": "Agricultural Economics"
+    },
+    {
+      "name": "Agricultural Science"
+    },
+    {
+      "name": "Agricultural Studies"
+    },
+    {
+      "name": "Agriculture"
+    },
+    {
+      "name": "Agriculture & agribusiness"
+    },
+    {
+      "name": "Agriculture/Forestry"
+    },
+    {
+      "name": "Agroecology"
+    },
+    {
+      "name": "Agro-environmental engineering"
+    },
+    {
+      "name": "Agronomy"
+    },
+    {
+      "name": "Air Conditionning and Refrigeration Engineering Technician"
+    },
+    {
+      "name": "Aircraft Maintenance Engineer"
+    },
+    {
+      "name": "Aircraft Maintenance Engineer (Avionics)"
+    },
+    {
+      "name": "Aircraft Maintenance Engineer (Mechanical)"
+    },
+    {
+      "name": "Aircraft Maintenance Engineer (Structures)"
+    },
+    {
+      "name": "Aircraft Maintenance Engineering Technician"
+    },
+    {
+      "name": "Aircraft Maintenance Technician"
+    },
+    {
+      "name": "Aircraft Maintenance Technics"
+    },
+    {
+      "name": "Aircraft Maintenance Technology"
+    },
+    {
+      "name": "American Sign Language/English interpretation"
+    },
+    {
+      "name": "Analysis and Development of Organizations"
+    },
+    {
+      "name": "Analytical Chemistry"
+    },
+    {
+      "name": "Analytical Chemistry Technology"
+    },
+    {
+      "name": "Anatomy & Cell Biology"
+    },
+    {
+      "name": "Animal Behaviour"
+    },
+    {
+      "name": "Animal Grooming Professional"
+    },
+    {
+      "name": "Animal Health Technician"
+    },
+    {
+      "name": "Animal production technology"
+    },
+    {
+      "name": "Animation"
+    },
+    {
+      "name": "Anthropology"
+    },
+    {
+      "name": "Anthropology and Sociology"
+    },
+    {
+      "name": "Applications of Computer Science"
+    },
+    {
+      "name": "Applied and Industrial Mathematics"
+    },
+    {
+      "name": "Applied Biology"
+    },
+    {
+      "name": "Applied Biostatistics"
+    },
+    {
+      "name": "Applied Business"
+    },
+    {
+      "name": "Applied Chemistry"
+    },
+    {
+      "name": "Applied Chemistry and Biotechnology"
+    },
+    {
+      "name": "Applied Communication - Marketing"
+    },
+    {
+      "name": "Applied Computer Science"
+    },
+    {
+      "name": "Applied Computer Science / Informatics"
+    },
+    {
+      "name": "Applied Criminology"
+    },
+    {
+      "name": "Applied Disaster & Emergency Studies (ADES)"
+    },
+    {
+      "name": "Applied Disaster and Emergency Studies"
+    },
+    {
+      "name": "Applied Economics"
+    },
+    {
+      "name": "Applied Economics Analysis"
+    },
+    {
+      "name": "Applied Economics and Policy Analysis"
+    },
+    {
+      "name": "Applied Ecotourism and Outdoor Leadership (ETOL)"
+    },
+    {
+      "name": "Applied Electronics Design"
+    },
+    {
+      "name": "Applied Environmental Science and Technology"
+    },
+    {
+      "name": "Applied Environmental Science and Technology (AEST)"
+    },
+    {
+      "name": "Applied Geology Technician"
+    },
+    {
+      "name": "Applied Geomatics"
+    },
+    {
+      "name": "Applied Health Information Science"
+    },
+    {
+      "name": "Applied Health Services Research"
+    },
+    {
+      "name": "Applied International Business and Supply Chain Management"
+    },
+    {
+      "name": "Applied Kinesiology"
+    },
+    {
+      "name": "Applied Linguistics"
+    },
+    {
+      "name": "Applied Mathematical Methods"
+    },
+    {
+      "name": "Applied Mathematics"
+    },
+    {
+      "name": "Applied Mathematics - Biology Option"
+    },
+    {
+      "name": "Applied Mathematics - Earth Sciences Option"
+    },
+    {
+      "name": "Applied Mathematics (Options in Economics"
+    },
+    {
+      "name": "Applied Physics"
+    },
+    {
+      "name": "Applied Physics (Geophysics option)"
+    },
+    {
+      "name": "Applied political studies"
+    },
+    {
+      "name": "Applied Psychological Science"
+    },
+    {
+      "name": "Applied Social Psychology"
+    },
+    {
+      "name": "Applied Statistics"
+    },
+    {
+      "name": "Applied Water Science"
+    },
+    {
+      "name": "Aquaculture"
+    },
+    {
+      "name": "Aquatic Resources"
+    },
+    {
+      "name": "Arboriculture"
+    },
+    {
+      "name": "Archaeology"
+    },
+    {
+      "name": "Archaeology & Geography"
+    },
+    {
+      "name": "Archaeology and Heritage Studies"
+    },
+    {
+      "name": "Architectural and Building Technologies"
+    },
+    {
+      "name": "Architectural and Interior Technologies"
+    },
+    {
+      "name": "Architectural Conservation and Sustainability Engineering"
+    },
+    {
+      "name": "Architectural Drafting"
+    },
+    {
+      "name": "Architectural Engineering"
+    },
+    {
+      "name": "Architectural Engineering Technician"
+    },
+    {
+      "name": "Architectural Science"
+    },
+    {
+      "name": "Architectural Studies"
+    },
+    {
+      "name": "Architectural Technician"
+    },
+    {
+      "name": "Architectural Technology"
+    },
+    {
+      "name": "Architectural Technology - Construction"
+    },
+    {
+      "name": "Architectural Technology - Design"
+    },
+    {
+      "name": "Architectural/Engineering Technology"
+    },
+    {
+      "name": "Architecture"
+    },
+    {
+      "name": "Architecture - Construction Engineering Technology"
+    },
+    {
+      "name": "Architecture - Project and Facility Management"
+    },
+    {
+      "name": "Architecture and network management"
+    },
+    {
+      "name": "Architecture Technology"
+    },
+    {
+      "name": "Archival Studies"
+    },
+    {
+      "name": "Archive and Records Management"
+    },
+    {
+      "name": "Art"
+    },
+    {
+      "name": "Art & Design"
+    },
+    {
+      "name": "Art Conservation"
+    },
+    {
+      "name": "Art History"
+    },
+    {
+      "name": "Art History and Visual Studies"
+    },
+    {
+      "name": "Art History"
+    },
+    {
+      "name": "Articling Program"
+    },
+    {
+      "name": "Arts"
+    },
+    {
+      "name": "Arts & Science Studies"
+    },
+    {
+      "name": "Arts & Sciences"
+    },
+    {
+      "name": "Arts & Social Sciences"
+    },
+    {
+      "name": "Arts and Business"
+    },
+    {
+      "name": "Arts and Media Administration"
+    },
+    {
+      "name": "Arts"
+    },
+    {
+      "name": "Asia Pacific Studies"
+    },
+    {
+      "name": "Asia-Canada Studies"
+    },
+    {
+      "name": "Asian Languages & Culture"
+    },
+    {
+      "name": "Asian Studies"
+    },
+    {
+      "name": "Astronomy"
+    },
+    {
+      "name": "Astrophysics"
+    },
+    {
+      "name": "Atmospheric & Oceanic Studies"
+    },
+    {
+      "name": "Atmospheric and Planetary Science"
+    },
+    {
+      "name": "Atmospheric Sciences"
+    },
+    {
+      "name": "Auto Collision Refinishing Technician"
+    },
+    {
+      "name": "Auto Collision Repair Technician"
+    },
+    {
+      "name": "Automated Production"
+    },
+    {
+      "name": "Automation & Instrumentation"
+    },
+    {
+      "name": "Automation: Robotics Technology"
+    },
+    {
+      "name": "Automotive & Vehicle Technology"
+    },
+    {
+      "name": "Automotive Engineering/Automotive Engineering and Management"
+    },
+    {
+      "name": "Automotive Management"
+    },
+    {
+      "name": "Automotive Service & Repair"
+    },
+    {
+      "name": "Automotive Service Technician"
+    },
+    {
+      "name": "Aviation Management"
+    },
+    {
+      "name": "Aviation Operations"
+    },
+    {
+      "name": "Aviation Safety"
+    },
+    {
+      "name": "Aviation Technician - Aircraft Maintenance"
+    },
+    {
+      "name": "Aviation Technician - Avionics Maintenance"
+    },
+    {
+      "name": "Aviation Technology"
+    },
+    {
+      "name": "Aviation Technology - Aircraft Maintenance and Avionic"
+    },
+    {
+      "name": "Aviation Technology - Aircraft Maintenance and Structures"
+    },
+    {
+      "name": "Avionics Technics"
+    },
+    {
+      "name": "Avionics Technology"
+    },
+    {
+      "name": "Bachelor in social science (criminologie)"
+    },
+    {
+      "name": "Bachelor of Arts (Public Policy)"
+    },
+    {
+      "name": "Bachelor of Automation and Robotics (Honours)"
+    },
+    {
+      "name": "Bachelor of Biological Sciences"
+    },
+    {
+      "name": "Bachelor of Environmental Design"
+    },
+    {
+      "name": "Bachelor of Health Administration degree"
+    },
+    {
+      "name": "Bachelor of Industrial Relations and Human Resources"
+    },
+    {
+      "name": "Bachelor of Microbiology and Immunology"
+    },
+    {
+      "name": "Bachelor of Public Safety (Honours)"
+    },
+    {
+      "name": "Bachelor of Science (Science Communication)"
+    },
+    {
+      "name": "Bachelor of Science in Nursing"
+    },
+    {
+      "name": "Baking & Baking Art"
+    },
+    {
+      "name": "Behavioral Neuroscience"
+    },
+    {
+      "name": "Behavioural Interventions"
+    },
+    {
+      "name": "Behavioural Psychology"
+    },
+    {
+      "name": "Behavioural Science"
+    },
+    {
+      "name": "Bilingual Office Administration"
+    },
+    {
+      "name": "Biochemistry"
+    },
+    {
+      "name": "Biochemistry & Biotechnology"
+    },
+    {
+      "name": "Biochemistry & Microbiology"
+    },
+    {
+      "name": "Biochemistry and Cell Biology"
+    },
+    {
+      "name": "Biochemistry and Chemistry"
+    },
+    {
+      "name": "Biochemistry of Infection and Immunity"
+    },
+    {
+      "name": "Biochemistry of Pathology of Human Disease"
+    },
+    {
+      "name": "Biodiversity and Conservation"
+    },
+    {
+      "name": "Bioenvironmental Monitoring and Assessment"
+    },
+    {
+      "name": "Bioinformatics"
+    },
+    {
+      "name": "Bioinformatics (Computer Science)"
+    },
+    {
+      "name": "Biological & Ecological Sciences"
+    },
+    {
+      "name": "Biological & Medical Physics"
+    },
+    {
+      "name": "Biological and Pharmaceutical Chemistry"
+    },
+    {
+      "name": "Biological Engineering"
+    },
+    {
+      "name": "Biological Science/Biological Science and Management"
+    },
+    {
+      "name": "Biological Sciences"
+    },
+    {
+      "name": "Biological Sciences (including Zoology"
+    },
+    {
+      "name": "Biology"
+    },
+    {
+      "name": "Biology - Cell and Molecular"
+    },
+    {
+      "name": "Biology - Ecology"
+    },
+    {
+      "name": "Biology - Physiology"
+    },
+    {
+      "name": "Biology and Bioinformatics"
+    },
+    {
+      "name": "Biology and Earth and Ocean Sciences (Environment)"
+    },
+    {
+      "name": "Biology and Earth and Ocean Sciences (Paleontology)"
+    },
+    {
+      "name": "Biology and Mathematics"
+    },
+    {
+      "name": "Biology and Mathematics and Statistics"
+    },
+    {
+      "name": "Biology and Pharmacology"
+    },
+    {
+      "name": "Biology and Psychology"
+    },
+    {
+      "name": "Biology"
+    },
+    {
+      "name": "Biomedical"
+    },
+    {
+      "name": "Biomedical and Electrical Engineering"
+    },
+    {
+      "name": "Biomedical and Mechanical Engineering"
+    },
+    {
+      "name": "Biomedical Computing"
+    },
+    {
+      "name": "Biomedical Discovery and Commercialization"
+    },
+    {
+      "name": "Biomedical Engineering"
+    },
+    {
+      "name": "Biomedical Engineering Technology"
+    },
+    {
+      "name": "Biomedical Physiology"
+    },
+    {
+      "name": "Biomedical Science"
+    },
+    {
+      "name": "Biomedical Technology"
+    },
+    {
+      "name": "Biomedical Toxicology"
+    },
+    {
+      "name": "Biophamaceutical sciences"
+    },
+    {
+      "name": "Biopharmaceutical Chemistry"
+    },
+    {
+      "name": "Biopharmaceutical Science"
+    },
+    {
+      "name": "Biophysics"
+    },
+    {
+      "name": "Biostatistics"
+    },
+    {
+      "name": "Biosystems  Engineering"
+    },
+    {
+      "name": "Biotechnological Engineering"
+    },
+    {
+      "name": "Biotechnology"
+    },
+    {
+      "name": "Biotechnology (Health)"
+    },
+    {
+      "name": "Biotechnology / Chartered Accountancy"
+    },
+    {
+      "name": "Biotechnology advanced"
+    },
+    {
+      "name": "Biotechnology/Economics"
+    },
+    {
+      "name": "Boulanger & Baking Art"
+    },
+    {
+      "name": "Brand Management"
+    },
+    {
+      "name": "Bricklaying Masonry"
+    },
+    {
+      "name": "Bridge Watch Rating"
+    },
+    {
+      "name": "Broadcast Media Studies"
+    },
+    {
+      "name": "Building Construction Technician"
+    },
+    {
+      "name": "Building Design Technology"
+    },
+    {
+      "name": "Building Engineering"
+    },
+    {
+      "name": "Building Mechanics Technology"
+    },
+    {
+      "name": "Building Sciences"
+    },
+    {
+      "name": "Building systems engineering technician"
+    },
+    {
+      "name": "Building systems engineering technology"
+    },
+    {
+      "name": "Building Systems Technician (HVAC&R)"
+    },
+    {
+      "name": "Building Technics"
+    },
+    {
+      "name": "Business"
+    },
+    {
+      "name": "Business - Accountancy"
+    },
+    {
+      "name": "Business - Administration"
+    },
+    {
+      "name": "Business - Admnistration"
+    },
+    {
+      "name": "Business - Computer Science"
+    },
+    {
+      "name": "Business - Hospitality"
+    },
+    {
+      "name": "Business - Information Systems"
+    },
+    {
+      "name": "Business - Law Clerk"
+    },
+    {
+      "name": "Business - Marketing"
+    },
+    {
+      "name": "Business - Tourism"
+    },
+    {
+      "name": "Business & Government"
+    },
+    {
+      "name": "Business & Math"
+    },
+    {
+      "name": "Business & Society"
+    },
+    {
+      "name": "Business / Computer Science"
+    },
+    {
+      "name": "Business Accounting"
+    },
+    {
+      "name": "Business Administration"
+    },
+    {
+      "name": "Business Administration -  Accounting Concentration"
+    },
+    {
+      "name": "Business Administration - Accounting"
+    },
+    {
+      "name": "Business Administration - Accounting (Co-op)"
+    },
+    {
+      "name": "Business Administration - Finance"
+    },
+    {
+      "name": "Business Administration - Financial Management"
+    },
+    {
+      "name": "Business Administration - Financial Planning"
+    },
+    {
+      "name": "Business Administration - Financial Services Concentration"
+    },
+    {
+      "name": "Business Administration - General Management"
+    },
+    {
+      "name": "Business Administration - Human Resources"
+    },
+    {
+      "name": "Business Administration - Human Resources (Co-op)"
+    },
+    {
+      "name": "Business Administration - Human Resources Management"
+    },
+    {
+      "name": "Business Administration - International Business"
+    },
+    {
+      "name": "Business Administration - Leadership & Management"
+    },
+    {
+      "name": "Business Administration - Management"
+    },
+    {
+      "name": "Business Administration - Management Concentration"
+    },
+    {
+      "name": "Business Administration - Marketing"
+    },
+    {
+      "name": "Business Administration - Marketing (Co-op)"
+    },
+    {
+      "name": "Business Administration - Marketing Concentration"
+    },
+    {
+      "name": "Business Administration - Open Concentration"
+    },
+    {
+      "name": "Business Administration - Supply Chain and Operations Management"
+    },
+    {
+      "name": "Business Administration (MBA)"
+    },
+    {
+      "name": "Business Administration (Options in Economics"
+    },
+    {
+      "name": "Business Administration and Law"
+    },
+    {
+      "name": "Business Administration Management"
+    },
+    {
+      "name": "Business Administration Marketing"
+    },
+    {
+      "name": "Business Analytics"
+    },
+    {
+      "name": "Business and Humanities"
+    },
+    {
+      "name": "Business and Information Technology"
+    },
+    {
+      "name": "Business and Life Sciences"
+    },
+    {
+      "name": "Business and People Management"
+    },
+    {
+      "name": "Business and Physical Sciences"
+    },
+    {
+      "name": "Business and Purchasing"
+    },
+    {
+      "name": "Business and Social Sciences"
+    },
+    {
+      "name": "Business Communications"
+    },
+    {
+      "name": "Business Continuity"
+    },
+    {
+      "name": "Business Design"
+    },
+    {
+      "name": "Business Economics"
+    },
+    {
+      "name": "Business Finance"
+    },
+    {
+      "name": "Business Informatics"
+    },
+    {
+      "name": "Business Information Technology"
+    },
+    {
+      "name": "Business Intelligence"
+    },
+    {
+      "name": "Business Intelligence Analytics"
+    },
+    {
+      "name": "Business Intelligence System Infrastructure"
+    },
+    {
+      "name": "Business Management"
+    },
+    {
+      "name": "Business Management - General"
+    },
+    {
+      "name": "Business Management - Human Resources"
+    },
+    {
+      "name": "Business Management - International Business"
+    },
+    {
+      "name": "Business Management (Marketing)"
+    },
+    {
+      "name": "Business Management Technique"
+    },
+    {
+      "name": "Business Process Management"
+    },
+    {
+      "name": "Business Technology Management"
+    },
+    {
+      "name": "Business"
+    },
+    {
+      "name": "Cabinet Making and Furniture Technician"
+    },
+    {
+      "name": "Cabinetmaking"
+    },
+    {
+      "name": "Cabinetry and Woodworking"
+    },
+    {
+      "name": "CAD Technician Mechanical"
+    },
+    {
+      "name": "Canadian Studies"
+    },
+    {
+      "name": "Capstone course - field placement"
+    },
+    {
+      "name": "Career Counseling"
+    },
+    {
+      "name": "Career Development"
+    },
+    {
+      "name": "Carpentry"
+    },
+    {
+      "name": "Carpentry and Renovation Technician (Co-op)"
+    },
+    {
+      "name": "Cell and Molecular Biology"
+    },
+    {
+      "name": "Cell Biology"
+    },
+    {
+      "name": "Cellular and Physiological Sciences"
+    },
+    {
+      "name": "Change Management"
+    },
+    {
+      "name": "Chartered Accountancy (Options in Actuarial Science"
+    },
+    {
+      "name": "Chartered Professional Accountancy"
+    },
+    {
+      "name": "Chemical and Biological Engineering"
+    },
+    {
+      "name": "Chemical Biology"
+    },
+    {
+      "name": "Chemical Engineering"
+    },
+    {
+      "name": "Chemical Engineering (Computer Process Control)"
+    },
+    {
+      "name": "Chemical Engineering and Bioengineering"
+    },
+    {
+      "name": "Chemical Engineering and Management"
+    },
+    {
+      "name": "Chemical Engineering and Society"
+    },
+    {
+      "name": "Chemical Engineering Technology"
+    },
+    {
+      "name": "Chemical Engineering Technology -  Environmental"
+    },
+    {
+      "name": "Chemical Laboratory Technology - Pharmaceutical"
+    },
+    {
+      "name": "Chemical Physics"
+    },
+    {
+      "name": "Chemical Production and Power Engineering Technician"
+    },
+    {
+      "name": "Chemical Production and Power Engineering Technology"
+    },
+    {
+      "name": "Chemical Production and Power Engineering Technology - Accelerated"
+    },
+    {
+      "name": "Chemical Technology"
+    },
+    {
+      "name": "Chemistry"
+    },
+    {
+      "name": "Chemistry - Research Oriented"
+    },
+    {
+      "name": "Chemistry and Earth and Ocean Sciences"
+    },
+    {
+      "name": "Chemistry and Mathematics"
+    },
+    {
+      "name": "Chemistry/ Environmental Chemistry"
+    },
+    {
+      "name": "Child & Youth Care"
+    },
+    {
+      "name": "Child and Youth Care"
+    },
+    {
+      "name": "Child and Youth Care with Addictions Support Worker"
+    },
+    {
+      "name": "Child and Youth Services Worker"
+    },
+    {
+      "name": "Child Development"
+    },
+    {
+      "name": "Child"
+    },
+    {
+      "name": "Chimie de l'environnement et des bioressources"
+    },
+    {
+      "name": "CIS"
+    },
+    {
+      "name": "Cities Engineering and Management"
+    },
+    {
+      "name": "City Studies"
+    },
+    {
+      "name": "Civil Engineering"
+    },
+    {
+      "name": "Civil Engineering - Doctorate"
+    },
+    {
+      "name": "Civil Engineering - Master"
+    },
+    {
+      "name": "Civil Engineering (Environmental)"
+    },
+    {
+      "name": "Civil Engineering and Management"
+    },
+    {
+      "name": "Civil Engineering and Society"
+    },
+    {
+      "name": "Civil Engineering Technician"
+    },
+    {
+      "name": "Civil Engineering Technology"
+    },
+    {
+      "name": "Civil Engineering Technology - Construction"
+    },
+    {
+      "name": "Civil Law"
+    },
+    {
+      "name": "Civil law and International development and Globalization"
+    },
+    {
+      "name": "Classical Studies"
+    },
+    {
+      "name": "Classical"
+    },
+    {
+      "name": "Classics"
+    },
+    {
+      "name": "Clerical work coordination"
+    },
+    {
+      "name": "Climate Change"
+    },
+    {
+      "name": "Clinical and Forensic Psychology"
+    },
+    {
+      "name": "Clinical Criminology"
+    },
+    {
+      "name": "Clinical Engineering"
+    },
+    {
+      "name": "Clinical Psychology"
+    },
+    {
+      "name": "Clinical Research"
+    },
+    {
+      "name": "CNC Machinist Technician"
+    },
+    {
+      "name": "Coaching Studies"
+    },
+    {
+      "name": "Cognitive and Neuropsychology"
+    },
+    {
+      "name": "Cognitive Science"
+    },
+    {
+      "name": "Cognitive Systems"
+    },
+    {
+      "name": "Collaborative Learning in Usability Experiences (CLUE)"
+    },
+    {
+      "name": "Combinatorics and Optimization"
+    },
+    {
+      "name": "Commerce"
+    },
+    {
+      "name": "Commerce / Business"
+    },
+    {
+      "name": "Commerce and Administration"
+    },
+    {
+      "name": "Commerce Program"
+    },
+    {
+      "name": "Communication"
+    },
+    {
+      "name": "Communication Studies"
+    },
+    {
+      "name": "Communication"
+    },
+    {
+      "name": "Communications - Digital Culture"
+    },
+    {
+      "name": "Communications - Information Technology"
+    },
+    {
+      "name": "Communications - Journalism"
+    },
+    {
+      "name": "Communications - Media and Culture"
+    },
+    {
+      "name": "Communications - Media"
+    },
+    {
+      "name": "Communications - Policy"
+    },
+    {
+      "name": "Communications - Public Relations"
+    },
+    {
+      "name": "Communications and Media Studies"
+    },
+    {
+      "name": "Communications Engineering"
+    },
+    {
+      "name": "Communications Studies"
+    },
+    {
+      "name": "Community and Criminal Justice"
+    },
+    {
+      "name": "Community and Justice Services"
+    },
+    {
+      "name": "Community and Public Affairs and Policy Studies"
+    },
+    {
+      "name": "Community Criminal Justice and Criminology"
+    },
+    {
+      "name": "Community Economic Development"
+    },
+    {
+      "name": "Community Economics and Social Development"
+    },
+    {
+      "name": "Community Health - Public Health"
+    },
+    {
+      "name": "Community Integration Through Cooperative Education"
+    },
+    {
+      "name": "Community Nutrirtion"
+    },
+    {
+      "name": "Community Recreation"
+    },
+    {
+      "name": "Community Social Work"
+    },
+    {
+      "name": "Comparative"
+    },
+    {
+      "name": "Composition"
+    },
+    {
+      "name": "Comptabilité et gestion"
+    },
+    {
+      "name": "Computation Arts"
+    },
+    {
+      "name": "Computational Art and Design Art"
+    },
+    {
+      "name": "Computational Biochemistry"
+    },
+    {
+      "name": "Computational Mathematics"
+    },
+    {
+      "name": "Computational Methods"
+    },
+    {
+      "name": "Computer Aided Drafting"
+    },
+    {
+      "name": "Computer Algebra"
+    },
+    {
+      "name": "Computer and Communication"
+    },
+    {
+      "name": "Computer and Electrical Engineering"
+    },
+    {
+      "name": "Computer and Network Systems Security"
+    },
+    {
+      "name": "Computer Application Development"
+    },
+    {
+      "name": "Computer Applications"
+    },
+    {
+      "name": "Computer applications (High Tech Professional Program)"
+    },
+    {
+      "name": "Computer Applications and Computation Arts"
+    },
+    {
+      "name": "Computer Automated Systems Technician - Electronics"
+    },
+    {
+      "name": "Computer Control Technology"
+    },
+    {
+      "name": "Computer Engineering"
+    },
+    {
+      "name": "Computer Engineering (NANO)"
+    },
+    {
+      "name": "Computer Engineering and Management"
+    },
+    {
+      "name": "Computer Engineering and Society"
+    },
+    {
+      "name": "Computer Engineering Technology"
+    },
+    {
+      "name": "Computer Engineering Technology - Computing Science"
+    },
+    {
+      "name": "Computer Games"
+    },
+    {
+      "name": "Computer Industry - Internship option"
+    },
+    {
+      "name": "Computer Information Systems"
+    },
+    {
+      "name": "Computer Network Electronics Technician"
+    },
+    {
+      "name": "Computer Network Management Techniques"
+    },
+    {
+      "name": "Computer Networking and Technical Support"
+    },
+    {
+      "name": "Computer Networks Manager"
+    },
+    {
+      "name": "Computer Numerical Control Machinist"
+    },
+    {
+      "name": "Computer Programmer"
+    },
+    {
+      "name": "Computer Programmer Analyst"
+    },
+    {
+      "name": "Computer Programmer Analyst (Co-op)"
+    },
+    {
+      "name": "Computer Programming"
+    },
+    {
+      "name": "Computer Programming and Analysis"
+    },
+    {
+      "name": "Computer Programming Techniques"
+    },
+    {
+      "name": "Computer Science"
+    },
+    {
+      "name": "Computer Science - Bioinformatics Option"
+    },
+    {
+      "name": "Computer Science - Business Option"
+    },
+    {
+      "name": "Computer Science - Computational Fine Arts Option"
+    },
+    {
+      "name": "Computer Science - Digital Hardware Option"
+    },
+    {
+      "name": "Computer Science - Human-Computer Interaction Option"
+    },
+    {
+      "name": "Computer Science - Operations and Management"
+    },
+    {
+      "name": "Computer Science - Software Engineering"
+    },
+    {
+      "name": "Computer Science - Theory"
+    },
+    {
+      "name": "Computer Science & Geographical Information Science"
+    },
+    {
+      "name": "Computer Science (Options in Business and Digital Hardware)"
+    },
+    {
+      "name": "Computer Science (Options in Business"
+    },
+    {
+      "name": "Computer Science / Bioinformatics Option"
+    },
+    {
+      "name": "Computer Science / Business Option"
+    },
+    {
+      "name": "Computer Science / Computational Fine Arts Option"
+    },
+    {
+      "name": "Computer Science / Digital Hardware Option"
+    },
+    {
+      "name": "Computer Science / Human-Computer Interaction Option"
+    },
+    {
+      "name": "Computer Science / Software Engineering"
+    },
+    {
+      "name": "Computer science and Management"
+    },
+    {
+      "name": "Computer Science and Mathematics"
+    },
+    {
+      "name": "Computer Science and Physics"
+    },
+    {
+      "name": "Computer Science and Statistics"
+    },
+    {
+      "name": "Computer Science Technology"
+    },
+    {
+      "name": "Computer Sciences"
+    },
+    {
+      "name": "Computer security"
+    },
+    {
+      "name": "Computer Software and Database Development"
+    },
+    {
+      "name": "Computer Software Development"
+    },
+    {
+      "name": "Computer Studies"
+    },
+    {
+      "name": "Computer System Development"
+    },
+    {
+      "name": "Computer Systems"
+    },
+    {
+      "name": "Computer Systems and Networking"
+    },
+    {
+      "name": "Computer Systems and Networks Technology"
+    },
+    {
+      "name": "Computer Systems Engineering"
+    },
+    {
+      "name": "Computer Systems Option"
+    },
+    {
+      "name": "Computer Systems Technician"
+    },
+    {
+      "name": "Computer Systems Technician - Electronics"
+    },
+    {
+      "name": "Computer Systems Technician - Network Systems"
+    },
+    {
+      "name": "Computer Systems Technician - Networking"
+    },
+    {
+      "name": "Computer systems Technician-Pembroke"
+    },
+    {
+      "name": "Computer Systems Technology"
+    },
+    {
+      "name": "Computer Systems Technology - Network Engineering and Security Analyst"
+    },
+    {
+      "name": "Computer Systems Technology - Software Development"
+    },
+    {
+      "name": "Computer Technology"
+    },
+    {
+      "name": "Computerize systems technology"
+    },
+    {
+      "name": "Computing & Mathematics"
+    },
+    {
+      "name": "Computing & the Creative Arts"
+    },
+    {
+      "name": "Computing and Business"
+    },
+    {
+      "name": "Computing and Computer Electronics"
+    },
+    {
+      "name": "Computing and Data Analytics"
+    },
+    {
+      "name": "Computing and Financial Management"
+    },
+    {
+      "name": "Computing and Network Communications"
+    },
+    {
+      "name": "Computing and Solid State Device Technology (CAST)"
+    },
+    {
+      "name": "Computing Engineering (Software)"
+    },
+    {
+      "name": "Computing Science"
+    },
+    {
+      "name": "Computing Science and Business Administration"
+    },
+    {
+      "name": "Concentration in Applied Theatre"
+    },
+    {
+      "name": "Concentration in Entrepreneurship"
+    },
+    {
+      "name": "Concentration in Information Systems"
+    },
+    {
+      "name": "Concentration in International Business"
+    },
+    {
+      "name": "Concentration in Operations Management"
+    },
+    {
+      "name": "Concentration in Production and Design"
+    },
+    {
+      "name": "Concentration in Public Administration"
+    },
+    {
+      "name": "Concentration in Theatre Praxis"
+    },
+    {
+      "name": "Conceptual Astronomy"
+    },
+    {
+      "name": "Conflict analysis and Management"
+    },
+    {
+      "name": "Conflict Resolution"
+    },
+    {
+      "name": "Conflict Studies and Human Rights"
+    },
+    {
+      "name": "Conservation Enforcement"
+    },
+    {
+      "name": "Construction"
+    },
+    {
+      "name": "Construction Engineering Technician"
+    },
+    {
+      "name": "Construction Engineering Technology (Management)"
+    },
+    {
+      "name": "Construction Management"
+    },
+    {
+      "name": "Construction Management Technology"
+    },
+    {
+      "name": "Construction/Industrial Electrician"
+    },
+    {
+      "name": "Consulting"
+    },
+    {
+      "name": "Contemporary Art"
+    },
+    {
+      "name": "Contemporary Science"
+    },
+    {
+      "name": "Continuing Care"
+    },
+    {
+      "name": "Cook"
+    },
+    {
+      "name": "Cool Climate Wine & Viticulture"
+    },
+    {
+      "name": "Corporate / Commercial Security"
+    },
+    {
+      "name": "Corporate Communications"
+    },
+    {
+      "name": "Corporate Residency"
+    },
+    {
+      "name": "Corporate Residency  MBA"
+    },
+    {
+      "name": "Corporate Residency MBA"
+    },
+    {
+      "name": "Correctional Officer"
+    },
+    {
+      "name": "Correctional Studies"
+    },
+    {
+      "name": "Cosmeceutical chemistry"
+    },
+    {
+      "name": "Cosmetology"
+    },
+    {
+      "name": "Counselling Psychology"
+    },
+    {
+      "name": "Creative Writing"
+    },
+    {
+      "name": "Criminal Justice"
+    },
+    {
+      "name": "Criminal Justice - Policing"
+    },
+    {
+      "name": "Criminal Justice: Corrections"
+    },
+    {
+      "name": "Criminal Justice: Police Foundations"
+    },
+    {
+      "name": "Criminology"
+    },
+    {
+      "name": "Criminology and Criminal Justice"
+    },
+    {
+      "name": "Criminology and Social Justice"
+    },
+    {
+      "name": "Critical Sociology"
+    },
+    {
+      "name": "Criticism and Curatorial Practice"
+    },
+    {
+      "name": "Cross-Disciplinary Art"
+    },
+    {
+      "name": "Culinary Arts"
+    },
+    {
+      "name": "Culinary Innovation and Food Technology (Co-op)"
+    },
+    {
+      "name": "Culinary Management"
+    },
+    {
+      "name": "Culinary Management (Co-op)"
+    },
+    {
+      "name": "Culinary operations"
+    },
+    {
+      "name": "Culinary Skills"
+    },
+    {
+      "name": "Cultural Heritage"
+    },
+    {
+      "name": "Cultural Resource Management"
+    },
+    {
+      "name": "Cultural Studies"
+    },
+    {
+      "name": "Curriculum and Instruction"
+    },
+    {
+      "name": "Customs - Immigration"
+    },
+    {
+      "name": "Customs and Border Services Administration"
+    },
+    {
+      "name": "Dairy Production"
+    },
+    {
+      "name": "Data Analysis"
+    },
+    {
+      "name": "Data Analytics"
+    },
+    {
+      "name": "data processing"
+    },
+    {
+      "name": "Data Science"
+    },
+    {
+      "name": "Database Application Developer"
+    },
+    {
+      "name": "Database Management"
+    },
+    {
+      "name": "DEC electronic design technology"
+    },
+    {
+      "name": "DEC-BAC EN INFORMATIQUE"
+    },
+    {
+      "name": "Demography"
+    },
+    {
+      "name": "Dental Assistant"
+    },
+    {
+      "name": "Dental Assisting Level II"
+    },
+    {
+      "name": "Dental Public Health"
+    },
+    {
+      "name": "Design"
+    },
+    {
+      "name": "Development & Network Engineering"
+    },
+    {
+      "name": "Development of advanced computer applications"
+    },
+    {
+      "name": "Development Studies"
+    },
+    {
+      "name": "Diesel Repair Industrial Marine"
+    },
+    {
+      "name": "Dietetics (Foods and Nutrition)"
+    },
+    {
+      "name": "Dietetics Technician"
+    },
+    {
+      "name": "Digital Business Management"
+    },
+    {
+      "name": "Digital Edition"
+    },
+    {
+      "name": "Digital Futures Initiative"
+    },
+    {
+      "name": "Digital Media"
+    },
+    {
+      "name": "Digital Media and IT"
+    },
+    {
+      "name": "Digitisation and Archiving"
+    },
+    {
+      "name": "Diploma of Technology - Business Management"
+    },
+    {
+      "name": "Diplomacy and International Affairs"
+    },
+    {
+      "name": "Disability Supports & Services"
+    },
+    {
+      "name": "Disaster and Emergency Management"
+    },
+    {
+      "name": "Disaster Management"
+    },
+    {
+      "name": "Discrete Mathematics"
+    },
+    {
+      "name": "Dispute Resolution"
+    },
+    {
+      "name": "Dispute Resolution and Law"
+    },
+    {
+      "name": "Doctorate in Psychology"
+    },
+    {
+      "name": "Documentation and library systems program"
+    },
+    {
+      "name": "Drafting Architectural"
+    },
+    {
+      "name": "Drama"
+    },
+    {
+      "name": "Drama and Theatre in Education (DIEE)"
+    },
+    {
+      "name": "Dramatic Arts"
+    },
+    {
+      "name": "Dramatic Literature"
+    },
+    {
+      "name": "Drawing & Painting"
+    },
+    {
+      "name": "Drug Development"
+    },
+    {
+      "name": "Early Childhood Care and Education"
+    },
+    {
+      "name": "Early Childhood Education"
+    },
+    {
+      "name": "Early Learning and Community Development"
+    },
+    {
+      "name": "Early Learning Program Development"
+    },
+    {
+      "name": "Earth & Environmental Science"
+    },
+    {
+      "name": "Earth & Planetary Sciences"
+    },
+    {
+      "name": "Earth and Atmospheric Sciences"
+    },
+    {
+      "name": "Earth and Ocean Sciences"
+    },
+    {
+      "name": "Earth Sciences"
+    },
+    {
+      "name": "Earth Sciences - Environmental Geoscience"
+    },
+    {
+      "name": "Earth Sciences - Geology"
+    },
+    {
+      "name": "Earth Sciences - Geophysics"
+    },
+    {
+      "name": "Earth Sciences - Geoscience"
+    },
+    {
+      "name": "Earth Sciences - Hydrogeology"
+    },
+    {
+      "name": "Earth System Science"
+    },
+    {
+      "name": "East Asian Studies"
+    },
+    {
+      "name": "E-Business"
+    },
+    {
+      "name": "Eco-advise"
+    },
+    {
+      "name": "Eco-Interpreter: Cultural and Natural Environment Interpreter's Training Program"
+    },
+    {
+      "name": "Ecological Restoration"
+    },
+    {
+      "name": "Ecology"
+    },
+    {
+      "name": "Ecology and Environment"
+    },
+    {
+      "name": "Ecology and Evolutionary Biology"
+    },
+    {
+      "name": "Ecology"
+    },
+    {
+      "name": "Economic and Social Policy"
+    },
+    {
+      "name": "Economics"
+    },
+    {
+      "name": "Economics - Juris Doctor"
+    },
+    {
+      "name": "Economics (Finance Option)"
+    },
+    {
+      "name": "Economics / Applied Economics"
+    },
+    {
+      "name": "Economics and Business"
+    },
+    {
+      "name": "Economics and Finance"
+    },
+    {
+      "name": "Economics and Management Science"
+    },
+    {
+      "name": "Economics and Public Policies"
+    },
+    {
+      "name": "Ecosystem Health"
+    },
+    {
+      "name": "Education Technology and Instructional Design"
+    },
+    {
+      "name": "Educational Psychology"
+    },
+    {
+      "name": "Educational Technology"
+    },
+    {
+      "name": "eHealth"
+    },
+    {
+      "name": "Electrical (Nano-engineering)"
+    },
+    {
+      "name": "Electrical and Biomedical Engineering"
+    },
+    {
+      "name": "Electrical and Computer Engineering"
+    },
+    {
+      "name": "Electrical and Computer Engineering Innovation"
+    },
+    {
+      "name": "Electrical Construction & Industrial - Certificate"
+    },
+    {
+      "name": "Electrical Construction & Industrial Diploma"
+    },
+    {
+      "name": "Electrical Engeneering Technology (systems)"
+    },
+    {
+      "name": "Electrical Engineering"
+    },
+    {
+      "name": "Electrical Engineering and Management"
+    },
+    {
+      "name": "Electrical Engineering and Society"
+    },
+    {
+      "name": "Electrical Engineering Technician"
+    },
+    {
+      "name": "Electrical Engineering Technician - Power"
+    },
+    {
+      "name": "Electrical Engineering Technology"
+    },
+    {
+      "name": "Electrical Engineering Technology - Control"
+    },
+    {
+      "name": "Electrical Engineering Technology - Control Systems"
+    },
+    {
+      "name": "Electrical Engineering Technology - Power and Control"
+    },
+    {
+      "name": "Electrical Engineering Technology - Power systems"
+    },
+    {
+      "name": "Electrical Engineering Technology - Telecommunications"
+    },
+    {
+      "name": "Electrical Engineering Technology (Co-op)"
+    },
+    {
+      "name": "Electrical Engineering"
+    },
+    {
+      "name": "Electrical Power and Industrial Control Technology"
+    },
+    {
+      "name": "Electrical Power Distribution and Control Technician"
+    },
+    {
+      "name": "Electrical Power Generation Technician"
+    },
+    {
+      "name": "Electrical Technician"
+    },
+    {
+      "name": "Electrical Technician - Industrial"
+    },
+    {
+      "name": "Electrical Technician Apprenticeship"
+    },
+    {
+      "name": "Electrical/ Electronic Engineering Technology"
+    },
+    {
+      "name": "Electro Mechanical Technician"
+    },
+    {
+      "name": "Electromechanical Engineering Technology"
+    },
+    {
+      "name": "Electromechanical Engineering Technology - Automation & Robotics"
+    },
+    {
+      "name": "Electro-Mechanical Maintenance"
+    },
+    {
+      "name": "Electromechanical systems engineering"
+    },
+    {
+      "name": "Electronic Business Technologies"
+    },
+    {
+      "name": "Electronic Commerce"
+    },
+    {
+      "name": "Electronic Communication Systems"
+    },
+    {
+      "name": "Electronic Engineering Technician"
+    },
+    {
+      "name": "Electronic Engineering Technology"
+    },
+    {
+      "name": "Electronic Systems Engineering"
+    },
+    {
+      "name": "Electronic Systems Engineering Technology"
+    },
+    {
+      "name": "Electronic Technology"
+    },
+    {
+      "name": "Electronic Technology: telecommunications"
+    },
+    {
+      "name": "Electronics"
+    },
+    {
+      "name": "Electronics - Telecommunications and Networking"
+    },
+    {
+      "name": "Electronics & Computer Engineering Technology - Renewable Energy"
+    },
+    {
+      "name": "Electronics and Information Technology."
+    },
+    {
+      "name": "Electronics Engineering Technician"
+    },
+    {
+      "name": "Electronics Engineering Technician - Computers"
+    },
+    {
+      "name": "Electronics Engineering Techniques"
+    },
+    {
+      "name": "Electronics Engineering Technology"
+    },
+    {
+      "name": "Electronics Engineering Technology - Telecommunications Systems"
+    },
+    {
+      "name": "Electronics Engineering Technology (Co-op)"
+    },
+    {
+      "name": "Electronics Engineering Technology Control Systems"
+    },
+    {
+      "name": "Electronics technics"
+    },
+    {
+      "name": "Electronics/ Computing"
+    },
+    {
+      "name": "Embedded Systems Development"
+    },
+    {
+      "name": "Emergency Management"
+    },
+    {
+      "name": "Emergency Medical Responder"
+    },
+    {
+      "name": "Energy and Environmental Policy"
+    },
+    {
+      "name": "Energy Economics"
+    },
+    {
+      "name": "Energy engineering"
+    },
+    {
+      "name": "Energy Management"
+    },
+    {
+      "name": "Energy Sustainability Engineering Technology"
+    },
+    {
+      "name": "Energy Systems Engineering"
+    },
+    {
+      "name": "Energy Systems Engineering Technology"
+    },
+    {
+      "name": "Engineering"
+    },
+    {
+      "name": "Engineering - Computer"
+    },
+    {
+      "name": "Engineering-  electronics"
+    },
+    {
+      "name": "Engineering and Management"
+    },
+    {
+      "name": "Engineering Business and Safety Management"
+    },
+    {
+      "name": "Engineering Chemistry"
+    },
+    {
+      "name": "Engineering Design & Drafting"
+    },
+    {
+      "name": "Engineering Graphics Technician"
+    },
+    {
+      "name": "Engineering Physics"
+    },
+    {
+      "name": "Engineering Physics (NANO)"
+    },
+    {
+      "name": "Engineering Physics and Management"
+    },
+    {
+      "name": "Engineering Physics and Society"
+    },
+    {
+      "name": "Engineering Science"
+    },
+    {
+      "name": "Engineering Systems and Computing"
+    },
+    {
+      "name": "Engineering Technology"
+    },
+    {
+      "name": "Engineering Technology - Graphics and Design"
+    },
+    {
+      "name": "English"
+    },
+    {
+      "name": "English - Literature and Rhetoric"
+    },
+    {
+      "name": "English - Rhetoric and Professional Writing"
+    },
+    {
+      "name": "English & Film Studies"
+    },
+    {
+      "name": "English & French Canadian Literature"
+    },
+    {
+      "name": "English and creative writting"
+    },
+    {
+      "name": "English and Film Studies"
+    },
+    {
+      "name": "English and French"
+    },
+    {
+      "name": "English and Intercultural Studies: Professional Writing"
+    },
+    {
+      "name": "English and Medieval Studies"
+    },
+    {
+      "name": "English Language & Literature"
+    },
+    {
+      "name": "English-Literature"
+    },
+    {
+      "name": "Enterprise Analytics"
+    },
+    {
+      "name": "Entrepreneurial Leadership"
+    },
+    {
+      "name": "Entrepreneurship"
+    },
+    {
+      "name": "Entrepreneurship & Innovation"
+    },
+    {
+      "name": "Entrepreneurship and Innovation"
+    },
+    {
+      "name": "Entrepreneurship and Small & Medium Business"
+    },
+    {
+      "name": "Environment"
+    },
+    {
+      "name": "Environment and Business"
+    },
+    {
+      "name": "Environment and Resource Management"
+    },
+    {
+      "name": "Environment and Resource Studies"
+    },
+    {
+      "name": "Environment and Sustainability"
+    },
+    {
+      "name": "Environment and Sustainable Development"
+    },
+    {
+      "name": "Environment"
+    },
+    {
+      "name": "Environment"
+    },
+    {
+      "name": "Environmental & Occupational Health"
+    },
+    {
+      "name": "Environmental and Conservation Sciences"
+    },
+    {
+      "name": "Environmental Biology"
+    },
+    {
+      "name": "Environmental Chemistry"
+    },
+    {
+      "name": "Environmental Civil Engineering Technology"
+    },
+    {
+      "name": "Environmental Control"
+    },
+    {
+      "name": "Environmental Design"
+    },
+    {
+      "name": "Environmental Economics & Policy"
+    },
+    {
+      "name": "Environmental Engineering"
+    },
+    {
+      "name": "Environmental Engineering Applications"
+    },
+    {
+      "name": "Environmental Engineering Technology"
+    },
+    {
+      "name": "Environmental Geology"
+    },
+    {
+      "name": "Environmental Geoscience"
+    },
+    {
+      "name": "Environmental Health"
+    },
+    {
+      "name": "Environmental Health and Public Health Inspection"
+    },
+    {
+      "name": "Environmental Health and Workplace Health"
+    },
+    {
+      "name": "Environmental Impact Assessment"
+    },
+    {
+      "name": "Environmental Life Science"
+    },
+    {
+      "name": "Environmental Management"
+    },
+    {
+      "name": "Environmental Modelling"
+    },
+    {
+      "name": "Environmental Planning"
+    },
+    {
+      "name": "Environmental Policy"
+    },
+    {
+      "name": "Environmental Protection Technology"
+    },
+    {
+      "name": "Environmental Public Health"
+    },
+    {
+      "name": "Environmental Resource Management"
+    },
+    {
+      "name": "Environmental Science"
+    },
+    {
+      "name": "Environmental Sciences"
+    },
+    {
+      "name": "Environmental Sciences and Sustainable Development"
+    },
+    {
+      "name": "Environmental Studies"
+    },
+    {
+      "name": "Environmental Studies and Applied Linguistics"
+    },
+    {
+      "name": "Environmental Studies and English"
+    },
+    {
+      "name": "Environmental Studies and French"
+    },
+    {
+      "name": "Environmental Studies and German"
+    },
+    {
+      "name": "Environmental Studies and Hispanic Studies"
+    },
+    {
+      "name": "Environmental Studies and History"
+    },
+    {
+      "name": "Environmental Studies and Linguistics"
+    },
+    {
+      "name": "Environmental Studies and Mathematics"
+    },
+    {
+      "name": "Environmental Studies and Pacific Studies"
+    },
+    {
+      "name": "Environmental Studies and Philosophy"
+    },
+    {
+      "name": "Environmental Studies and Statistics"
+    },
+    {
+      "name": "Environmental Sustainability"
+    },
+    {
+      "name": "Environmental Systems Engineering"
+    },
+    {
+      "name": "Environmental Technician"
+    },
+    {
+      "name": "Environmental Technician - Field and Laboratory (Co-op)"
+    },
+    {
+      "name": "Environmental Technician Water & Wastewater Systems Operations"
+    },
+    {
+      "name": "Environmental Technology"
+    },
+    {
+      "name": "Environmental Toxicology"
+    },
+    {
+      "name": "Environmental"
+    },
+    {
+      "name": "Environnement et développement durable"
+    },
+    {
+      "name": "Environnement"
+    },
+    {
+      "name": "Epidemiology"
+    },
+    {
+      "name": "Epidemiology and Biostatistics"
+    },
+    {
+      "name": "Essentials skills - Customer service in the Public Service"
+    },
+    {
+      "name": "Esthetics & Spa Therapies"
+    },
+    {
+      "name": "Esthetics and Spa Management with Electrolysis"
+    },
+    {
+      "name": "e-Supply Chain Management"
+    },
+    {
+      "name": "European and Russian Studies"
+    },
+    {
+      "name": "European"
+    },
+    {
+      "name": "Event Management"
+    },
+    {
+      "name": "Event Marketing - Sports"
+    },
+    {
+      "name": "Event Planner/Public Relations Specialist"
+    },
+    {
+      "name": "Events and Conventions Management"
+    },
+    {
+      "name": "Events management"
+    },
+    {
+      "name": "Excercise Psychology"
+    },
+    {
+      "name": "Exercise Design"
+    },
+    {
+      "name": "Exercise Science"
+    },
+    {
+      "name": "Fashion Arts"
+    },
+    {
+      "name": "Fashion Design"
+    },
+    {
+      "name": "Fashion Management"
+    },
+    {
+      "name": "Fashion Merchandising Management"
+    },
+    {
+      "name": "Film & Media"
+    },
+    {
+      "name": "Film Production"
+    },
+    {
+      "name": "Film Studies"
+    },
+    {
+      "name": "Finance"
+    },
+    {
+      "name": "Finance and Accounting"
+    },
+    {
+      "name": "Finance and Economics"
+    },
+    {
+      "name": "Financial & Strategic Accounting"
+    },
+    {
+      "name": "Financial Analysis & Risk Management (FARM)"
+    },
+    {
+      "name": "Financial Analysis and Risk Management (FARM) - Chartered Financial Analyst Specialization"
+    },
+    {
+      "name": "Financial Analysis and Risk Management (FARM) - Professional Risk Management Specialization"
+    },
+    {
+      "name": "Financial Economics"
+    },
+    {
+      "name": "Financial Engineering"
+    },
+    {
+      "name": "Financial Management"
+    },
+    {
+      "name": "Financial Mathematics"
+    },
+    {
+      "name": "Financial Mathematics and Economics"
+    },
+    {
+      "name": "Financial Modelling"
+    },
+    {
+      "name": "Financial Reporting and Analysis"
+    },
+    {
+      "name": "Financial Services"
+    },
+    {
+      "name": "Financial Services Management"
+    },
+    {
+      "name": "Fine Arts"
+    },
+    {
+      "name": "Fire and Life Safety Systems Technician"
+    },
+    {
+      "name": "Fire Protection Engineering Technology"
+    },
+    {
+      "name": "Fire Science Technology"
+    },
+    {
+      "name": "First Nation Studies"
+    },
+    {
+      "name": "First Nations & Indigenous Studies"
+    },
+    {
+      "name": "First Nations Public Administration"
+    },
+    {
+      "name": "Fish and Wildlife Conservation"
+    },
+    {
+      "name": "Fish and Wildlife Technician"
+    },
+    {
+      "name": "Fish"
+    },
+    {
+      "name": "Fisheries & Aquaculture"
+    },
+    {
+      "name": "Fisheries Management"
+    },
+    {
+      "name": "Fitness/Lifestyle"
+    },
+    {
+      "name": "Food and Agricultural Business"
+    },
+    {
+      "name": "Food and Beverage Management"
+    },
+    {
+      "name": "Food and Nutrition Administration"
+    },
+    {
+      "name": "Food and Nutrition Management"
+    },
+    {
+      "name": "Food and Resources Economics (MFRE)"
+    },
+    {
+      "name": "Food engineering"
+    },
+    {
+      "name": "Food Industry Management"
+    },
+    {
+      "name": "Food Processing Technician"
+    },
+    {
+      "name": "Food Safety"
+    },
+    {
+      "name": "Food Science"
+    },
+    {
+      "name": "Food Science and Nutrition"
+    },
+    {
+      "name": "Food Technology"
+    },
+    {
+      "name": "Foods and Nutrition"
+    },
+    {
+      "name": "Forensic Anthropology"
+    },
+    {
+      "name": "Forensic Biology"
+    },
+    {
+      "name": "Forensic Chemistry"
+    },
+    {
+      "name": "Forensic investigation"
+    },
+    {
+      "name": "Forensic Science"
+    },
+    {
+      "name": "Forest Conservation"
+    },
+    {
+      "name": "Forest Ecosystem Management Technician"
+    },
+    {
+      "name": "Forest Ecosystem Technology"
+    },
+    {
+      "name": "Forest Operations"
+    },
+    {
+      "name": "Forest Resources Management"
+    },
+    {
+      "name": "Forest Technology"
+    },
+    {
+      "name": "Forestry"
+    },
+    {
+      "name": "Forestry & Fish-Wildlife Option"
+    },
+    {
+      "name": "Forestry and Faunique Environment Technician"
+    },
+    {
+      "name": "Forestry Management"
+    },
+    {
+      "name": "Forestry Sciences"
+    },
+    {
+      "name": "French"
+    },
+    {
+      "name": "French (Literature"
+    },
+    {
+      "name": "French (Teaching Emphasis)"
+    },
+    {
+      "name": "French / German"
+    },
+    {
+      "name": "French / Spanish"
+    },
+    {
+      "name": "French and Education"
+    },
+    {
+      "name": "French Studies"
+    },
+    {
+      "name": "French"
+    },
+    {
+      "name": "Freshwater Science"
+    },
+    {
+      "name": "Funds Management"
+    },
+    {
+      "name": "Funeral & Allied Health Services"
+    },
+    {
+      "name": "Game Development"
+    },
+    {
+      "name": "Game development and Entrepreneurship"
+    },
+    {
+      "name": "Gas Technician"
+    },
+    {
+      "name": "Gender Studies"
+    },
+    {
+      "name": "Gender"
+    },
+    {
+      "name": "Gender"
+    },
+    {
+      "name": "Gender"
+    },
+    {
+      "name": "General"
+    },
+    {
+      "name": "General Arts"
+    },
+    {
+      "name": "General Business"
+    },
+    {
+      "name": "General Humanities"
+    },
+    {
+      "name": "General Major Sciences"
+    },
+    {
+      "name": "General Major Social Sciences"
+    },
+    {
+      "name": "General Management"
+    },
+    {
+      "name": "General Mathematics (3 year program)"
+    },
+    {
+      "name": "General Science"
+    },
+    {
+      "name": "General Stream"
+    },
+    {
+      "name": "General Studies"
+    },
+    {
+      "name": "Genetics"
+    },
+    {
+      "name": "Genetics and Biochemistry"
+    },
+    {
+      "name": "Geodesy/Geomatics Engineering"
+    },
+    {
+      "name": "Geographic Analysis - Locational Studies"
+    },
+    {
+      "name": "Geographic Analysis - Recreation and Tourism"
+    },
+    {
+      "name": "Geographic Analysis - Resource and Environmental Management"
+    },
+    {
+      "name": "Geographic Analysis - Urban and Transportation Management"
+    },
+    {
+      "name": "Geographic Analysis- Geographic Information Systems GIS"
+    },
+    {
+      "name": "Geographic Information Science"
+    },
+    {
+      "name": "Geographic Information Systems (ADGIS)"
+    },
+    {
+      "name": "Geographic Information Systems (GIS)"
+    },
+    {
+      "name": "Geographic Technologies"
+    },
+    {
+      "name": "Geographical Sciences - Sustainable Development"
+    },
+    {
+      "name": "Géographie"
+    },
+    {
+      "name": "Géographie appliquée en environnement"
+    },
+    {
+      "name": "Géographie environnementale"
+    },
+    {
+      "name": "Geography"
+    },
+    {
+      "name": "Geography - Environment & Sustainability"
+    },
+    {
+      "name": "Geography & Earth Sciences"
+    },
+    {
+      "name": "Geography & Environmental Studies"
+    },
+    {
+      "name": "Geography & Geomatics"
+    },
+    {
+      "name": "Geography (Including Geology/Water Resources)"
+    },
+    {
+      "name": "Geography and Computer Science (Geomatics)"
+    },
+    {
+      "name": "Geography and Earth Sciences (Geosciences)"
+    },
+    {
+      "name": "Geography and Earth Sciences (Geotechnics)"
+    },
+    {
+      "name": "Geography and Environmental Management"
+    },
+    {
+      "name": "Geography"
+    },
+    {
+      "name": "Geological Engineering"
+    },
+    {
+      "name": "Geology"
+    },
+    {
+      "name": "Geology - Earth Sciences"
+    },
+    {
+      "name": "Geology and Biology"
+    },
+    {
+      "name": "Geomatic Sciences (Land Surveyor)"
+    },
+    {
+      "name": "Geomatic Techniques"
+    },
+    {
+      "name": "Geomatics"
+    },
+    {
+      "name": "Geomatics Applied to the Environment"
+    },
+    {
+      "name": "Geomatics Engineering"
+    },
+    {
+      "name": "Geomatics Engineering Technology"
+    },
+    {
+      "name": "Geomatics Technology"
+    },
+    {
+      "name": "Geophysics"
+    },
+    {
+      "name": "German"
+    },
+    {
+      "name": "German Studies"
+    },
+    {
+      "name": "Germanic Studies"
+    },
+    {
+      "name": "Gerontology"
+    },
+    {
+      "name": "Gerontology"
+    },
+    {
+      "name": "GIS and Urban Planning"
+    },
+    {
+      "name": "GIS Environmental Technologies"
+    },
+    {
+      "name": "Global Affairs"
+    },
+    {
+      "name": "Global and International Studies"
+    },
+    {
+      "name": "Global Business"
+    },
+    {
+      "name": "Global Business and Digital Arts"
+    },
+    {
+      "name": "Global Business Management"
+    },
+    {
+      "name": "Global Development Studies"
+    },
+    {
+      "name": "Global Environmental Systems"
+    },
+    {
+      "name": "Global Governance"
+    },
+    {
+      "name": "Global Health"
+    },
+    {
+      "name": "Global hospitality Management"
+    },
+    {
+      "name": "Global Management"
+    },
+    {
+      "name": "Global Politics"
+    },
+    {
+      "name": "Global Studies"
+    },
+    {
+      "name": "Global Studies (International Development)"
+    },
+    {
+      "name": "Global Supply Chain Management"
+    },
+    {
+      "name": "Globalization and International Development"
+    },
+    {
+      "name": "Golf & Ski Operations Management"
+    },
+    {
+      "name": "Golf and Recreaton Club Management"
+    },
+    {
+      "name": "Golf Club Management"
+    },
+    {
+      "name": "Golf Course Management"
+    },
+    {
+      "name": "Golf Facilities Operation Management"
+    },
+    {
+      "name": "Graphic & Print Production"
+    },
+    {
+      "name": "Graphic and Web Design"
+    },
+    {
+      "name": "Graphic Design"
+    },
+    {
+      "name": "Graphic Design Production - Creative Studio"
+    },
+    {
+      "name": "Graphic Design Production - Digital Media"
+    },
+    {
+      "name": "Greek and Latin Language and Literature"
+    },
+    {
+      "name": "Greek and Roman Studies"
+    },
+    {
+      "name": "Green Process Engineering"
+    },
+    {
+      "name": "Greenhouse Technician (Co-op)"
+    },
+    {
+      "name": "Hairstylist"
+    },
+    {
+      "name": "Hardware Systems"
+    },
+    {
+      "name": "Health and Radiation Physics"
+    },
+    {
+      "name": "Health Biochemistry"
+    },
+    {
+      "name": "Health Care related fields (Nursing optional)"
+    },
+    {
+      "name": "Health Informatics"
+    },
+    {
+      "name": "Health Informatics Technology"
+    },
+    {
+      "name": "Health Information Management (HIM)"
+    },
+    {
+      "name": "Health Information Science"
+    },
+    {
+      "name": "Health Information Science and Computer Science"
+    },
+    {
+      "name": "Health Management"
+    },
+    {
+      "name": "Health Physics and Radiation Science"
+    },
+    {
+      "name": "Health Policy & Management"
+    },
+    {
+      "name": "Health Promotion"
+    },
+    {
+      "name": "Health Sciences"
+    },
+    {
+      "name": "Health Sector Management"
+    },
+    {
+      "name": "Health Services Administration"
+    },
+    {
+      "name": "Health Services Management"
+    },
+    {
+      "name": "Health Services Research"
+    },
+    {
+      "name": "Health Studies"
+    },
+    {
+      "name": "Health Studies and Gerontology"
+    },
+    {
+      "name": "Health system"
+    },
+    {
+      "name": "Health System Management"
+    },
+    {
+      "name": "Health Wellness and Recreation"
+    },
+    {
+      "name": "Health"
+    },
+    {
+      "name": "Health"
+    },
+    {
+      "name": "Heating"
+    },
+    {
+      "name": "Heavy Duty Equipment / Truck & Transport Repair Diploma"
+    },
+    {
+      "name": "Heavy Duty Equipment / Truck Transport Repair - Certificate"
+    },
+    {
+      "name": "Heavy Duty Equipment Repair"
+    },
+    {
+      "name": "Heavy Duty Equipment Technician"
+    },
+    {
+      "name": "Heavy Equipment Operator"
+    },
+    {
+      "name": "Heavy Equipment Techniques"
+    },
+    {
+      "name": "Heritage Carpentry"
+    },
+    {
+      "name": "High Performance Computing"
+    },
+    {
+      "name": "Hispanic and Italian Studies"
+    },
+    {
+      "name": "Hispanic Studies"
+    },
+    {
+      "name": "Hispanic Studies"
+    },
+    {
+      "name": "History"
+    },
+    {
+      "name": "History & Classics"
+    },
+    {
+      "name": "History (Archival Studies)"
+    },
+    {
+      "name": "History"
+    },
+    {
+      "name": "Home Support Worker/Personal Care Attendant"
+    },
+    {
+      "name": "Honours Accounting"
+    },
+    {
+      "name": "Honours Bachelor of Business Administration (Hospitality)"
+    },
+    {
+      "name": "Honours Bachelor of Business Administration (Human Resources)"
+    },
+    {
+      "name": "Honours Bachelor of Business Administration (International Commerce and Global Development)"
+    },
+    {
+      "name": "Honours Bachelor of Interaction Design"
+    },
+    {
+      "name": "Honours Economics"
+    },
+    {
+      "name": "Honours Economics / Accounting"
+    },
+    {
+      "name": "Honours Economics / Finance"
+    },
+    {
+      "name": "Horticultural production and the environment"
+    },
+    {
+      "name": "Horticultural Technician (Co-op)"
+    },
+    {
+      "name": "Horticulture & Landscape Technology"
+    },
+    {
+      "name": "Horticulture Industries"
+    },
+    {
+      "name": "Horticulture Technician"
+    },
+    {
+      "name": "Hospitality - Culture"
+    },
+    {
+      "name": "Hospitality - Hotel and Restaurant Operations (Co-op)"
+    },
+    {
+      "name": "Hospitality Administration"
+    },
+    {
+      "name": "Hospitality and Tourism  Management"
+    },
+    {
+      "name": "Hospitality and Tourism Management"
+    },
+    {
+      "name": "Hospitality and Tourism Management"
+    },
+    {
+      "name": "Hospitality Management"
+    },
+    {
+      "name": "Hospitality Management - International"
+    },
+    {
+      "name": "Hospitality Management Hotel and Resort"
+    },
+    {
+      "name": "Hospitality"
+    },
+    {
+      "name": "Hotel and Food Administration"
+    },
+    {
+      "name": "Hotel and Restaurant Management"
+    },
+    {
+      "name": "Hotel Management"
+    },
+    {
+      "name": "Hotel"
+    },
+    {
+      "name": "Hotel"
+    },
+    {
+      "name": "Human Ecology"
+    },
+    {
+      "name": "Human Geography"
+    },
+    {
+      "name": "Human Kinetics"
+    },
+    {
+      "name": "Human Nutrition"
+    },
+    {
+      "name": "Human Resource Management"
+    },
+    {
+      "name": "Human Resource Management and Industrial Relations"
+    },
+    {
+      "name": "Human Resource Management and Leadership"
+    },
+    {
+      "name": "Human Resources"
+    },
+    {
+      "name": "Human Resources and Organizational Behaviour"
+    },
+    {
+      "name": "Human Resources Assistant - Payroll Practitioner"
+    },
+    {
+      "name": "Human Resources Management"
+    },
+    {
+      "name": "Human Resources Strategy and Technology"
+    },
+    {
+      "name": "Human Security Peacebuilding"
+    },
+    {
+      "name": "Human Services"
+    },
+    {
+      "name": "Human Services Management"
+    },
+    {
+      "name": "Humanities"
+    },
+    {
+      "name": "Illustration"
+    },
+    {
+      "name": "Immunology and Infection"
+    },
+    {
+      "name": "Incident Management System"
+    },
+    {
+      "name": "Inclusive Design"
+    },
+    {
+      "name": "Indigeneous Governance"
+    },
+    {
+      "name": "Indigenous Business Leadership"
+    },
+    {
+      "name": "Indigenous Governance and Business Management"
+    },
+    {
+      "name": "Indigenous Studies"
+    },
+    {
+      "name": "Individualized Multidisciplinary"
+    },
+    {
+      "name": "Industrial Chemistry"
+    },
+    {
+      "name": "Industrial Control Technology"
+    },
+    {
+      "name": "Industrial Control Technology (Instrumentation)"
+    },
+    {
+      "name": "Industrial Design"
+    },
+    {
+      "name": "Industrial Electronics"
+    },
+    {
+      "name": "Industrial Electronics Technology"
+    },
+    {
+      "name": "Industrial Engineering"
+    },
+    {
+      "name": "Industrial Engineering - Industrial Resilience"
+    },
+    {
+      "name": "Industrial Engineering Techniques"
+    },
+    {
+      "name": "Industrial Engineering Technology"
+    },
+    {
+      "name": "Industrial Instrumentation"
+    },
+    {
+      "name": "Industrial Instrumentation Technician"
+    },
+    {
+      "name": "Industrial Maintenance Mechanic"
+    },
+    {
+      "name": "Industrial Maintenance Technology"
+    },
+    {
+      "name": "Industrial Management"
+    },
+    {
+      "name": "Industrial Mathematics"
+    },
+    {
+      "name": "Industrial Mathematics/Operations Research"
+    },
+    {
+      "name": "Industrial Mechanical"
+    },
+    {
+      "name": "Industrial Relations"
+    },
+    {
+      "name": "Industrial relations / Juris Doctor"
+    },
+    {
+      "name": "Industrial Relations and Human Resources"
+    },
+    {
+      "name": "Industrial Systems Engineering"
+    },
+    {
+      "name": "Industrial-Organizational Psychology"
+    },
+    {
+      "name": "Informatic Support"
+    },
+    {
+      "name": "Informatic Systems Technology"
+    },
+    {
+      "name": "Informatics"
+    },
+    {
+      "name": "Informatics & Security"
+    },
+    {
+      "name": "Informatics Engineering"
+    },
+    {
+      "name": "Informatics Management and Internet Programming"
+    },
+    {
+      "name": "Informatics Technique - Informatics Management"
+    },
+    {
+      "name": "Information  Management/Library Technology"
+    },
+    {
+      "name": "Information and Communications Technology"
+    },
+    {
+      "name": "Information and Computer Systems Technician"
+    },
+    {
+      "name": "Information and Computer Systems Technologist"
+    },
+    {
+      "name": "Information and Professional Counselling"
+    },
+    {
+      "name": "Information Design"
+    },
+    {
+      "name": "Information Management"
+    },
+    {
+      "name": "Information management systems"
+    },
+    {
+      "name": "Information Science"
+    },
+    {
+      "name": "Information Specialist+"
+    },
+    {
+      "name": "Information Studies"
+    },
+    {
+      "name": "Information Systems"
+    },
+    {
+      "name": "Information Systems Security"
+    },
+    {
+      "name": "Information Technologies"
+    },
+    {
+      "name": "Information Technologies Support Services"
+    },
+    {
+      "name": "Information Technology"
+    },
+    {
+      "name": "Information Technology - Information Networks"
+    },
+    {
+      "name": "Information Technology - Information Security"
+    },
+    {
+      "name": "Information Technology - IT Management"
+    },
+    {
+      "name": "Information Technology - Network Management"
+    },
+    {
+      "name": "Information Technology - Programmer Analyst"
+    },
+    {
+      "name": "Information Technology (Computer programming)"
+    },
+    {
+      "name": "Information Technology (IT support)"
+    },
+    {
+      "name": "Information Technology and Software Engineering"
+    },
+    {
+      "name": "Information Technology Management"
+    },
+    {
+      "name": "Information Technology Professional"
+    },
+    {
+      "name": "Information Technology Specialist"
+    },
+    {
+      "name": "Information Technology"
+    },
+    {
+      "name": "Information Technology"
+    },
+    {
+      "name": "Information Technology"
+    },
+    {
+      "name": "Information Technology"
+    },
+    {
+      "name": "Infrastructure Protection and International Security"
+    },
+    {
+      "name": "Innovation and Entrepreneurship"
+    },
+    {
+      "name": "Instrumentation & Control Engineering Technology"
+    },
+    {
+      "name": "Instrumentation & Control Engineering Technology - Accelerated"
+    },
+    {
+      "name": "Instrumentation Engineering Technician"
+    },
+    {
+      "name": "Instrumentation Engineering Technician - Automation and Control"
+    },
+    {
+      "name": "Instrumentation Engineering Technologist - Automation and Control"
+    },
+    {
+      "name": "Instrumentation Engineering Technology"
+    },
+    {
+      "name": "Instrumentation"
+    },
+    {
+      "name": "Insurance - Property and Casualty"
+    },
+    {
+      "name": "Insurance and financial services"
+    },
+    {
+      "name": "Insurance and Risk Management"
+    },
+    {
+      "name": "Integrated Engineering"
+    },
+    {
+      "name": "Integrated Environmental Planning Technology"
+    },
+    {
+      "name": "Integrated Land Planning Technologies"
+    },
+    {
+      "name": "Integrated management of the coastal areas"
+    },
+    {
+      "name": "Integrated Media"
+    },
+    {
+      "name": "Integrated Science with Biology"
+    },
+    {
+      "name": "Integrated Science with Chemistry"
+    },
+    {
+      "name": "Integrated Science with Computer Science"
+    },
+    {
+      "name": "Integrated Science with Earth Sciences"
+    },
+    {
+      "name": "Integrated Science with Environmental Sciences"
+    },
+    {
+      "name": "Integrated Science with Genetics"
+    },
+    {
+      "name": "Integrated Science with Mathematics"
+    },
+    {
+      "name": "Integrated Science with Physics"
+    },
+    {
+      "name": "Integrated Sciences"
+    },
+    {
+      "name": "Integrated Water Resources Management"
+    },
+    {
+      "name": "Interactive arts"
+    },
+    {
+      "name": "Interactive Arts & Technology"
+    },
+    {
+      "name": "Interactive Media Design"
+    },
+    {
+      "name": "Intercultural Education"
+    },
+    {
+      "name": "Intercultural Education and Training"
+    },
+    {
+      "name": "Interdisciplinary Art"
+    },
+    {
+      "name": "Interdisciplinary Medical Sciences"
+    },
+    {
+      "name": "Interdisciplinary Studies"
+    },
+    {
+      "name": "Interior Decorating"
+    },
+    {
+      "name": "Interior Design"
+    },
+    {
+      "name": "International Accounting and Finance"
+    },
+    {
+      "name": "International Administration"
+    },
+    {
+      "name": "International Affairs"
+    },
+    {
+      "name": "International and Intercultural Communication"
+    },
+    {
+      "name": "International Buisness"
+    },
+    {
+      "name": "International Buisness/ Affairs"
+    },
+    {
+      "name": "International Buisness/Affairs"
+    },
+    {
+      "name": "International Business"
+    },
+    {
+      "name": "International Business Administration"
+    },
+    {
+      "name": "International Business Management"
+    },
+    {
+      "name": "International Cooperation"
+    },
+    {
+      "name": "International Development"
+    },
+    {
+      "name": "International Development and Globalization"
+    },
+    {
+      "name": "International Development Management"
+    },
+    {
+      "name": "International Development Studies"
+    },
+    {
+      "name": "International Economics"
+    },
+    {
+      "name": "International Economics and Development"
+    },
+    {
+      "name": "International Economics and Finance - Co-op"
+    },
+    {
+      "name": "International Economics and Finance - Internship"
+    },
+    {
+      "name": "International Food Business"
+    },
+    {
+      "name": "International Human Rights Program"
+    },
+    {
+      "name": "International Indigenous Studies"
+    },
+    {
+      "name": "International Languages"
+    },
+    {
+      "name": "International Law"
+    },
+    {
+      "name": "International Law and Politics"
+    },
+    {
+      "name": "International Management"
+    },
+    {
+      "name": "International Management - Canadian Studies"
+    },
+    {
+      "name": "International Management - East Asian Cultural Studies"
+    },
+    {
+      "name": "International Management and Organization"
+    },
+    {
+      "name": "International Management"
+    },
+    {
+      "name": "International Management"
+    },
+    {
+      "name": "International Management"
+    },
+    {
+      "name": "International Policy"
+    },
+    {
+      "name": "International Relations"
+    },
+    {
+      "name": "International Relations & international laws"
+    },
+    {
+      "name": "International Studies"
+    },
+    {
+      "name": "Internationally Educated Agrologists"
+    },
+    {
+      "name": "Internationally Educated Engineers qualification Program"
+    },
+    {
+      "name": "Internet Applications and Web Development"
+    },
+    {
+      "name": "Internet Programming and Database Development"
+    },
+    {
+      "name": "Internet Telecommunications Technology"
+    },
+    {
+      "name": "Internet/ Web Computing and Software Development"
+    },
+    {
+      "name": "Investigations and Security Management Studies"
+    },
+    {
+      "name": "Investment Banking"
+    },
+    {
+      "name": "IT Data Analytics"
+    },
+    {
+      "name": "IT Database Administration"
+    },
+    {
+      "name": "IT Generalist"
+    },
+    {
+      "name": "IT Innovation and Design"
+    },
+    {
+      "name": "IT Programming"
+    },
+    {
+      "name": "IT Systems Administrator"
+    },
+    {
+      "name": "IT Systems Management & Security"
+    },
+    {
+      "name": "IT Systems Management and Security"
+    },
+    {
+      "name": "IT Web Development"
+    },
+    {
+      "name": "Italian Studies"
+    },
+    {
+      "name": "Japan/Chinese/German Studies"
+    },
+    {
+      "name": "Journalism"
+    },
+    {
+      "name": "Journalism - Accelerated"
+    },
+    {
+      "name": "Journalism - Print and Broadcast"
+    },
+    {
+      "name": "Journalism and political communication"
+    },
+    {
+      "name": "Judicial techniques"
+    },
+    {
+      "name": "Juris Doctor (J.D.)"
+    },
+    {
+      "name": "Justice Studies"
+    },
+    {
+      "name": "Kinesiology"
+    },
+    {
+      "name": "Kinesiology and Physical Education"
+    },
+    {
+      "name": "Knowledge Management"
+    },
+    {
+      "name": "Laboratory Technician: Analytical chemistry"
+    },
+    {
+      "name": "Laboratory Technics (Biotechnology)"
+    },
+    {
+      "name": "Laboratory Technics (chemistry - analytical)"
+    },
+    {
+      "name": "Laboratory Techniques- Chemistry"
+    },
+    {
+      "name": "Laboratory Technology"
+    },
+    {
+      "name": "Labour Law"
+    },
+    {
+      "name": "Labour Relations"
+    },
+    {
+      "name": "Labour Studies"
+    },
+    {
+      "name": "Labour-Management Relations"
+    },
+    {
+      "name": "Land and food Systems"
+    },
+    {
+      "name": "Land and Water Management"
+    },
+    {
+      "name": "Landscape Design"
+    },
+    {
+      "name": "Landscape Management"
+    },
+    {
+      "name": "Landscape Technician"
+    },
+    {
+      "name": "Landscape Technician (Co-op)"
+    },
+    {
+      "name": "Language and Literature"
+    },
+    {
+      "name": "Languages & Literature"
+    },
+    {
+      "name": "Languages"
+    },
+    {
+      "name": "Latin American Studies"
+    },
+    {
+      "name": "Law"
+    },
+    {
+      "name": "Law & Security"
+    },
+    {
+      "name": "Law and Business"
+    },
+    {
+      "name": "Law and Society"
+    },
+    {
+      "name": "Law Clerk"
+    },
+    {
+      "name": "Law Clerk (Co-op)"
+    },
+    {
+      "name": "Law enforcement"
+    },
+    {
+      "name": "Law Enforcement Foundations"
+    },
+    {
+      "name": "Leadership & Organizations"
+    },
+    {
+      "name": "Leadership and Change Management"
+    },
+    {
+      "name": "Leadership in Public Service"
+    },
+    {
+      "name": "Leadership Studies"
+    },
+    {
+      "name": "Legal Assistant"
+    },
+    {
+      "name": "Legal major"
+    },
+    {
+      "name": "Legal Studies"
+    },
+    {
+      "name": "Legal Techniques"
+    },
+    {
+      "name": "Legal translation"
+    },
+    {
+      "name": "Leisure Service Administration"
+    },
+    {
+      "name": "Letters"
+    },
+    {
+      "name": "Lettres françaises"
+    },
+    {
+      "name": "Liberal Arts"
+    },
+    {
+      "name": "Liberal Studies"
+    },
+    {
+      "name": "Library & Information Technology"
+    },
+    {
+      "name": "Library & Informaton Technology"
+    },
+    {
+      "name": "Library and Information Science"
+    },
+    {
+      "name": "Library and Information Studies; Information management"
+    },
+    {
+      "name": "Life Physics"
+    },
+    {
+      "name": "Life Sciences"
+    },
+    {
+      "name": "Life Sciences/Life Sciences and Management"
+    },
+    {
+      "name": "Linguistics"
+    },
+    {
+      "name": "Linguistics and Language"
+    },
+    {
+      "name": "Live Event and Audio-Visual Technician"
+    },
+    {
+      "name": "Local Economic Development"
+    },
+    {
+      "name": "Logistics and Supply Chain Management"
+    },
+    {
+      "name": "Logistics and Transportation techniques"
+    },
+    {
+      "name": "MA program in Immigration and Settlement Studies"
+    },
+    {
+      "name": "Machining"
+    },
+    {
+      "name": "Maîtrise en Orientation"
+    },
+    {
+      "name": "Maîtrise en sciences de l'administration - développement des personnes et des organisations (M. Sc.)"
+    },
+    {
+      "name": "Maîtrise ès arts en orientation"
+    },
+    {
+      "name": "Major in Accounting"
+    },
+    {
+      "name": "Major in Biological Sciences"
+    },
+    {
+      "name": "Major risk management"
+    },
+    {
+      "name": "Management"
+    },
+    {
+      "name": "Management & Globalization"
+    },
+    {
+      "name": "Management & Systems Science"
+    },
+    {
+      "name": "Management Analysis"
+    },
+    {
+      "name": "Management and Accounting Technics"
+    },
+    {
+      "name": "Management and Information Systems"
+    },
+    {
+      "name": "Management and Organizational Studies - Accounting"
+    },
+    {
+      "name": "Management and Organizational Studies - Finance"
+    },
+    {
+      "name": "Management and Organizational Studies - HR Management"
+    },
+    {
+      "name": "Management and Organizational Studies - Marketing"
+    },
+    {
+      "name": "Management and Organizational Studies - Public Administration"
+    },
+    {
+      "name": "Management and Property evaluation"
+    },
+    {
+      "name": "Management and social innovations"
+    },
+    {
+      "name": "Management and Technology"
+    },
+    {
+      "name": "Management Control"
+    },
+    {
+      "name": "Management Economics and Finance"
+    },
+    {
+      "name": "Management Engineering"
+    },
+    {
+      "name": "Management Information Systems"
+    },
+    {
+      "name": "Management Information Systems and Analytics"
+    },
+    {
+      "name": "Management networking and Telecommunication"
+    },
+    {
+      "name": "Management of cooperatives and mutuals"
+    },
+    {
+      "name": "Management of Innovation and New Technology"
+    },
+    {
+      "name": "Management of international development and humanitarian action"
+    },
+    {
+      "name": "Management of IT Technology"
+    },
+    {
+      "name": "Management of Organizations and Tourism Destinations"
+    },
+    {
+      "name": "Management of the Marine Environment"
+    },
+    {
+      "name": "Management Science"
+    },
+    {
+      "name": "Management Studies"
+    },
+    {
+      "name": "Management Systems"
+    },
+    {
+      "name": "Managing People and Organizations"
+    },
+    {
+      "name": "Manufacturing"
+    },
+    {
+      "name": "Manufacturing Engineering"
+    },
+    {
+      "name": "Manufacturing Engineering"
+    },
+    {
+      "name": "Manufacturing Engineering Technician - Automation (IMM)"
+    },
+    {
+      "name": "Manufacturing Engineering Technician/Technology"
+    },
+    {
+      "name": "Manufacturing Engineering Technology"
+    },
+    {
+      "name": "Manufacturing Management"
+    },
+    {
+      "name": "Marine and Freshwater Biology"
+    },
+    {
+      "name": "Marine Biology"
+    },
+    {
+      "name": "Marine Engineering Technology"
+    },
+    {
+      "name": "Marine Geomatics"
+    },
+    {
+      "name": "Marine Industrial Rigging"
+    },
+    {
+      "name": "Marine Management"
+    },
+    {
+      "name": "Marine Navigation Technology Diploma"
+    },
+    {
+      "name": "Marine Spatial Planning"
+    },
+    {
+      "name": "Marine Technology - Navigation"
+    },
+    {
+      "name": "Maritime Transportation Management"
+    },
+    {
+      "name": "Marketing"
+    },
+    {
+      "name": "Marketing & Advertising"
+    },
+    {
+      "name": "Marketing Logistics"
+    },
+    {
+      "name": "Marketing Management"
+    },
+    {
+      "name": "Marketing Management - Financial Services (B406)"
+    },
+    {
+      "name": "Marketing Research and Business Intelligence"
+    },
+    {
+      "name": "Massage Therapy"
+    },
+    {
+      "name": "Master in History - Archive"
+    },
+    {
+      "name": "Master of Applied Computing"
+    },
+    {
+      "name": "Master of Architecture"
+    },
+    {
+      "name": "Master of Archival Studies (MAS)"
+    },
+    {
+      "name": "Master of Arts in Policy Studies"
+    },
+    {
+      "name": "Master of Arts in Tourism Management"
+    },
+    {
+      "name": "Master of Health Evaluation"
+    },
+    {
+      "name": "Master of Health Informatics"
+    },
+    {
+      "name": "Master of Information"
+    },
+    {
+      "name": "Master of Library and Information Studies (MLIS)"
+    },
+    {
+      "name": "Master of Library and Information Studies and Archival Studies (MLIS & MAS)"
+    },
+    {
+      "name": "Master of Planning"
+    },
+    {
+      "name": "Master of Project Management"
+    },
+    {
+      "name": "Master of Public Policy and Administration"
+    },
+    {
+      "name": "Master's degree in biological sciences"
+    },
+    {
+      "name": "Master's degree in biological sciences"
+    },
+    {
+      "name": "Master's degree in Notarial Law"
+    },
+    {
+      "name": "Material Art & Design"
+    },
+    {
+      "name": "Materials and Metallurgical Engineering"
+    },
+    {
+      "name": "Materials and Nanosciences"
+    },
+    {
+      "name": "Materials Chemistry"
+    },
+    {
+      "name": "Materials Engineering"
+    },
+    {
+      "name": "Materials Engineering (NANO)"
+    },
+    {
+      "name": "Materials Engineering and Management"
+    },
+    {
+      "name": "Materials Engineering and Society"
+    },
+    {
+      "name": "Materials Science"
+    },
+    {
+      "name": "Mathematical and Numerical Methods"
+    },
+    {
+      "name": "Mathematical Economics"
+    },
+    {
+      "name": "Mathematical Finance"
+    },
+    {
+      "name": "Mathematical Optimization (Business Specialization)"
+    },
+    {
+      "name": "Mathematical Optimization (Operations Research Specialization)"
+    },
+    {
+      "name": "Mathematical Physics"
+    },
+    {
+      "name": "Mathematical Sciences"
+    },
+    {
+      "name": "Mathematical Studies  (Business Specialization)"
+    },
+    {
+      "name": "Mathematics"
+    },
+    {
+      "name": "Mathematics & Computer Science (Integrated)"
+    },
+    {
+      "name": "Mathematics & its Applications"
+    },
+    {
+      "name": "Mathematics / Business Administration"
+    },
+    {
+      "name": "Mathematics and Computer Science"
+    },
+    {
+      "name": "Mathematics and Computing"
+    },
+    {
+      "name": "Mathematics and Computing Science"
+    },
+    {
+      "name": "Mathematics and Engineering"
+    },
+    {
+      "name": "Mathematics and Statistical Sciences"
+    },
+    {
+      "name": "Mathematics and Statistics"
+    },
+    {
+      "name": "Mathematics in Society"
+    },
+    {
+      "name": "Mathematics Integrated with Computer Applications"
+    },
+    {
+      "name": "Mathematics Integrated with Computer Applications with a Concetration in Statistics"
+    },
+    {
+      "name": "Mathematics Teaching Option"
+    },
+    {
+      "name": "Mathematics/Chartered Professional Accountancy (Option in Finance)"
+    },
+    {
+      "name": "Mathmatics & Computer Science"
+    },
+    {
+      "name": "McGill International Experience"
+    },
+    {
+      "name": "Mechanical"
+    },
+    {
+      "name": "Mechanical and Industrial Engineering"
+    },
+    {
+      "name": "Mechanical and Materials Engineering"
+    },
+    {
+      "name": "Mechanical Engineering"
+    },
+    {
+      "name": "Mechanical Engineering (Biomedical)"
+    },
+    {
+      "name": "Mechanical Engineering (Maritime)"
+    },
+    {
+      "name": "Mechanical Engineering (Materials option)"
+    },
+    {
+      "name": "Mechanical Engineering and Management"
+    },
+    {
+      "name": "Mechanical Engineering and Society"
+    },
+    {
+      "name": "Mechanical Engineering Technician"
+    },
+    {
+      "name": "Mechanical Engineering Techniques"
+    },
+    {
+      "name": "Mechanical Engineering Technology"
+    },
+    {
+      "name": "Mechanical Engineering Technology - Automated Manufacturing"
+    },
+    {
+      "name": "Mechanical Engineering Technology - Design"
+    },
+    {
+      "name": "Mechanical Engineering Technology - Design and Drafting"
+    },
+    {
+      "name": "Mechanical Engineering Technology - Robotics and Automation"
+    },
+    {
+      "name": "Mechanical Engineering Technology (Co-op)"
+    },
+    {
+      "name": "Mechanical Engineering Technology (Industrial)"
+    },
+    {
+      "name": "Mechanical Engineering Technology- Automotive Products Design"
+    },
+    {
+      "name": "Mechanical Engineering Technology-Building Sciences"
+    },
+    {
+      "name": "Mechanical Engineering Technology-Design & Analysis"
+    },
+    {
+      "name": "Mechanical Engineering"
+    },
+    {
+      "name": "Mechanical Manufacturing Engineering Technology"
+    },
+    {
+      "name": "Mechanical Systems Engineering"
+    },
+    {
+      "name": "Mechanical Technician"
+    },
+    {
+      "name": "Mechanical Technician - Automated Manufacturing"
+    },
+    {
+      "name": "Mechanical Technician - Precision Skills"
+    },
+    {
+      "name": "Mechanical Technician Apprenticeship - Tool and Die/Tool Maker"
+    },
+    {
+      "name": "Mechanical Techniques - Millwright"
+    },
+    {
+      "name": "Mechatronic Systems Engineering"
+    },
+    {
+      "name": "Mechatronics"
+    },
+    {
+      "name": "Mechatronics and Management"
+    },
+    {
+      "name": "Mechatronics and Society"
+    },
+    {
+      "name": "Mechatronics Engineering"
+    },
+    {
+      "name": "Media and Communication Studies"
+    },
+    {
+      "name": "Media Studies"
+    },
+    {
+      "name": "Media"
+    },
+    {
+      "name": "Media"
+    },
+    {
+      "name": "Media"
+    },
+    {
+      "name": "Media"
+    },
+    {
+      "name": "Medical Administrative Specialist"
+    },
+    {
+      "name": "Medical Biology"
+    },
+    {
+      "name": "Medical Biophysics"
+    },
+    {
+      "name": "Medical Biophysics and Biochemistry"
+    },
+    {
+      "name": "Medical Cell Biology"
+    },
+    {
+      "name": "Medical Emergency"
+    },
+    {
+      "name": "Medical Health Informatics"
+    },
+    {
+      "name": "Medical Health Physics"
+    },
+    {
+      "name": "Medical Laboratory Technology"
+    },
+    {
+      "name": "Medical Office Administration"
+    },
+    {
+      "name": "Medical Physics"
+    },
+    {
+      "name": "Medical Sciences"
+    },
+    {
+      "name": "Medical Support Services"
+    },
+    {
+      "name": "Medication Development"
+    },
+    {
+      "name": "Medicinal Chemistry"
+    },
+    {
+      "name": "Medicine"
+    },
+    {
+      "name": "Medieval Studies"
+    },
+    {
+      "name": "Mediterranean Studies (Spain or Italy Concentration)"
+    },
+    {
+      "name": "Mental Health"
+    },
+    {
+      "name": "Mental Health Recovery & Promotion"
+    },
+    {
+      "name": "Mental Health Studies"
+    },
+    {
+      "name": "Metal Fabrication"
+    },
+    {
+      "name": "Metallurgical Engineering Technologies"
+    },
+    {
+      "name": "Metallurgical Engineering Technology"
+    },
+    {
+      "name": "Microbiology"
+    },
+    {
+      "name": "Microbiology & Immunology"
+    },
+    {
+      "name": "Microbiology and Chemistry"
+    },
+    {
+      "name": "Microbiology and Immunology"
+    },
+    {
+      "name": "Microbiology and Immunology with Pathology"
+    },
+    {
+      "name": "Microelectronics Engineering"
+    },
+    {
+      "name": "Millwright Mechanical Technician"
+    },
+    {
+      "name": "Mineral Engineering"
+    },
+    {
+      "name": "Mineral Resources Engineering"
+    },
+    {
+      "name": "Mineral Technology:  applied geology"
+    },
+    {
+      "name": "Mineral Technology:  Exploitation"
+    },
+    {
+      "name": "Mineral Technology:  mineralurgy"
+    },
+    {
+      "name": "Mining  Engineering"
+    },
+    {
+      "name": "Mining and Mineral Exploration"
+    },
+    {
+      "name": "Mining and Mineral Processing Engineering"
+    },
+    {
+      "name": "Mining Engineering"
+    },
+    {
+      "name": "Mobile application development"
+    },
+    {
+      "name": "Mobile Solutions Development"
+    },
+    {
+      "name": "Modern European Studies"
+    },
+    {
+      "name": "Modern Languages"
+    },
+    {
+      "name": "Modern Languages & Cultural Studies"
+    },
+    {
+      "name": "Modern Languages (French"
+    },
+    {
+      "name": "Molecular Biology & Biotechnology"
+    },
+    {
+      "name": "Molecular Biology & Genetics"
+    },
+    {
+      "name": "Molecular Cell and Developmental Biology"
+    },
+    {
+      "name": "Motive Power Technician"
+    },
+    {
+      "name": "Motive Power Technician - Automotive (Co-op)"
+    },
+    {
+      "name": "Motor Vehicle Body Repair"
+    },
+    {
+      "name": "Motor Vehicle Body Repairer"
+    },
+    {
+      "name": "Motorcycle & Power Products Repair"
+    },
+    {
+      "name": "Multimedia"
+    },
+    {
+      "name": "Multimedia / New Media"
+    },
+    {
+      "name": "Multimedia Design & Production technician"
+    },
+    {
+      "name": "Multimedia Graphic Design"
+    },
+    {
+      "name": "Multimedia integration techniques"
+    },
+    {
+      "name": "Multimedia Technics"
+    },
+    {
+      "name": "Municipal Engineering Technology"
+    },
+    {
+      "name": "Museum management and curatorship"
+    },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Music & Culture"
+    },
+    {
+      "name": "Music and Computer Science"
+    },
+    {
+      "name": "Music Arts"
+    },
+    {
+      "name": "Music Business"
+    },
+    {
+      "name": "Musicology"
+    },
+    {
+      "name": "Musicology with Performance"
+    },
+    {
+      "name": "Mycology"
+    },
+    {
+      "name": "n/a"
+    },
+    {
+      "name": "Nanoscience"
+    },
+    {
+      "name": "Nanotechnology Engineering"
+    },
+    {
+      "name": "Native American Studies"
+    },
+    {
+      "name": "Native Child & Family Services"
+    },
+    {
+      "name": "Natural and landscaped environments"
+    },
+    {
+      "name": "Natural Environment Conservation"
+    },
+    {
+      "name": "Natural Environment Conservation Technologist"
+    },
+    {
+      "name": "Natural Resource Management - Resource Recreation"
+    },
+    {
+      "name": "Natural Resource Protection"
+    },
+    {
+      "name": "Natural Resource Science"
+    },
+    {
+      "name": "Natural Resources"
+    },
+    {
+      "name": "Natural Resources Conservation"
+    },
+    {
+      "name": "Natural Resources Environmental Technology"
+    },
+    {
+      "name": "Natural Resources Management - Forestry"
+    },
+    {
+      "name": "Natural Resources Management - Wildlife and Fisheries"
+    },
+    {
+      "name": "Natural Resources Technician"
+    },
+    {
+      "name": "Natural Sciences"
+    },
+    {
+      "name": "Nautical Science"
+    },
+    {
+      "name": "Nautical Sciences"
+    },
+    {
+      "name": "Nautical Sciences"
+    },
+    {
+      "name": "Naval Architecture & Marine Engineering"
+    },
+    {
+      "name": "Navigation"
+    },
+    {
+      "name": "Network Administration"
+    },
+    {
+      "name": "Network Administrator"
+    },
+    {
+      "name": "Network and Telecommunications"
+    },
+    {
+      "name": "Network Engineering Technology"
+    },
+    {
+      "name": "Network Management"
+    },
+    {
+      "name": "Network Manager"
+    },
+    {
+      "name": "Network Support Specialist"
+    },
+    {
+      "name": "Network Systems Technology"
+    },
+    {
+      "name": "Network Technology"
+    },
+    {
+      "name": "Neurobiology"
+    },
+    {
+      "name": "Neuromotor"
+    },
+    {
+      "name": "Neuropsychology"
+    },
+    {
+      "name": "Neuroscience"
+    },
+    {
+      "name": "Neuroscience (Concentrations in Neurobiology and Neuropsychology)"
+    },
+    {
+      "name": "Neuroscience and Mental Health"
+    },
+    {
+      "name": "NewMedia and Publication Design (Web Development"
+    },
+    {
+      "name": "North American Studies"
+    },
+    {
+      "name": "Northern Environmental Studies"
+    },
+    {
+      "name": "Northern First Nations Studies"
+    },
+    {
+      "name": "Northern Justice and Criminology"
+    },
+    {
+      "name": "Northern Science"
+    },
+    {
+      "name": "Northern Studies"
+    },
+    {
+      "name": "Notarial Law"
+    },
+    {
+      "name": "Nuclear Engineering/Nuclear Engineering and Management"
+    },
+    {
+      "name": "Numerical and Statistical Computation"
+    },
+    {
+      "name": "Numerical and Statistical Computation (PEP)"
+    },
+    {
+      "name": "Nursing"
+    },
+    {
+      "name": "Nursing - Initial Training"
+    },
+    {
+      "name": "Nursing and Health Informatics"
+    },
+    {
+      "name": "Nutrition"
+    },
+    {
+      "name": "Nutrition and Dietetics"
+    },
+    {
+      "name": "Nutrition and Food Sciences"
+    },
+    {
+      "name": "Occupational and Environmental Hygiene"
+    },
+    {
+      "name": "Occupational and Physical Therapy"
+    },
+    {
+      "name": "Occupational Health & Safety"
+    },
+    {
+      "name": "Occupational Health and Safety"
+    },
+    {
+      "name": "Occupational Therapy / Physiotherapy Assistant"
+    },
+    {
+      "name": "Ocean and Naval Architecture Engineering"
+    },
+    {
+      "name": "Ocean Instrumentation"
+    },
+    {
+      "name": "Ocean Mapping"
+    },
+    {
+      "name": "Ocean Physics"
+    },
+    {
+      "name": "Oceans Resources Fisheries & Aquaculture"
+    },
+    {
+      "name": "Oceans Technology"
+    },
+    {
+      "name": "Oenology and Viticulture"
+    },
+    {
+      "name": "Office Administration"
+    },
+    {
+      "name": "Office Administration - Executive"
+    },
+    {
+      "name": "Office Administration - Executive (Co-op)"
+    },
+    {
+      "name": "Office Administration - General"
+    },
+    {
+      "name": "Office Administration - Health Services"
+    },
+    {
+      "name": "Office Administration - Legal"
+    },
+    {
+      "name": "Office Administration - Legal/Health"
+    },
+    {
+      "name": "Office Administration -Executive"
+    },
+    {
+      "name": "Office Administration Technology"
+    },
+    {
+      "name": "Office Administration"
+    },
+    {
+      "name": "Office Assistant - Medical"
+    },
+    {
+      "name": "Office automation"
+    },
+    {
+      "name": "Office Automation - Administration"
+    },
+    {
+      "name": "Office Management"
+    },
+    {
+      "name": "Office Management - administrative assistant"
+    },
+    {
+      "name": "Office Management Techniques"
+    },
+    {
+      "name": "Office Systems Technology"
+    },
+    {
+      "name": "Office Technique Microedition and hypermedia"
+    },
+    {
+      "name": "Office Techniques"
+    },
+    {
+      "name": "Office Technology"
+    },
+    {
+      "name": "Oil & Gas Engineering"
+    },
+    {
+      "name": "Oil Heat Systems Technician"
+    },
+    {
+      "name": "One Health"
+    },
+    {
+      "name": "Online Certificate in Safety"
+    },
+    {
+      "name": "Operational Research"
+    },
+    {
+      "name": "Operations and Logistics"
+    },
+    {
+      "name": "Operations and Production Management"
+    },
+    {
+      "name": "Operations Management"
+    },
+    {
+      "name": "Operations Management / Quantitative Business Analysis"
+    },
+    {
+      "name": "Operations Management and Logistics"
+    },
+    {
+      "name": "Opticianry"
+    },
+    {
+      "name": "Organizational Behaviour"
+    },
+    {
+      "name": "Organizational Behaviour and Human Resources"
+    },
+    {
+      "name": "Organizational Behavious and Human Resources Management"
+    },
+    {
+      "name": "Organizational Development -"
+    },
+    {
+      "name": "Organizational Psychology"
+    },
+    {
+      "name": "Organizational Studies"
+    },
+    {
+      "name": "Other"
+    },
+    {
+      "name": "Outdoor Adventure Leadership"
+    },
+    {
+      "name": "Outdoor Adventure Naturalist"
+    },
+    {
+      "name": "Pacific and Asian Studies"
+    },
+    {
+      "name": "Package & Graphic Design"
+    },
+    {
+      "name": "Packaging Engineering Technician"
+    },
+    {
+      "name": "Paralegal"
+    },
+    {
+      "name": "Paralegal Services"
+    },
+    {
+      "name": "Paralegal Studies"
+    },
+    {
+      "name": "Paralegal technology AEC"
+    },
+    {
+      "name": "Parks and Outdoor Recreation"
+    },
+    {
+      "name": "Pathology"
+    },
+    {
+      "name": "Performance"
+    },
+    {
+      "name": "Personnel & Industrial Relations"
+    },
+    {
+      "name": "Petroleum"
+    },
+    {
+      "name": "Petroleum Engineering Technology"
+    },
+    {
+      "name": "Petroleum Land Management"
+    },
+    {
+      "name": "Petroleum Systems Engineering"
+    },
+    {
+      "name": "Pharmaceutical Chemistry"
+    },
+    {
+      "name": "Pharmaceutical manufacturing"
+    },
+    {
+      "name": "Pharmaceutical Regulatory Affairs and Quality Operations"
+    },
+    {
+      "name": "Pharmacology"
+    },
+    {
+      "name": "Pharmacology & Pathology"
+    },
+    {
+      "name": "Pharmacology"
+    },
+    {
+      "name": "Pharmacy"
+    },
+    {
+      "name": "Pharmacy Technician"
+    },
+    {
+      "name": "Philosophy & Classics"
+    },
+    {
+      "name": "Philosophy in Interdisciplinary Leadership"
+    },
+
+    {
+      "name": "Photography"
+    },
+    {
+      "name": "Physical and Health Education"
+    },
+    {
+      "name": "Physical Education"
+    },
+    {
+      "name": "Physical Education - Teaching"
+    },
+    {
+      "name": "Physical engineering"
+    },
+    {
+      "name": "Physical fitness and Leisure Management"
+    },
+    {
+      "name": "Physical Geography"
+    },
+    {
+      "name": "Physical Geography & Earth and Ocean Sciences"
+    },
+    {
+      "name": "Physical rehabilitation"
+    },
+    {
+      "name": "Physical Sciences"
+    },
+    {
+      "name": "Physics"
+    },
+    {
+      "name": "Physics & Astronomy"
+    },
+    {
+      "name": "Physics & Earth Sciences (Geophysics)"
+    },
+    {
+      "name": "Physics & Mathematics"
+    },
+    {
+      "name": "Physics & Ocean Sciences"
+    },
+    {
+      "name": "Physics (Including Pre-Engineering and Astronomy)"
+    },
+    {
+      "name": "Physics and Astronomy"
+    },
+    {
+      "name": "Physics and Biochemistry"
+    },
+    {
+      "name": "Physics and Biophysics"
+    },
+    {
+      "name": "Physics and Computer Science"
+    },
+    {
+      "name": "Physics and High Technology"
+    },
+    {
+      "name": "Physics and Ocean Science (Physical Oceangraphy)"
+    },
+    {
+      "name": "Physics of Materials"
+    },
+    {
+      "name": "Physics/Engineering"
+    },
+    {
+      "name": "Physiology"
+    },
+    {
+      "name": "Physiology and Pharmacology"
+    },
+    {
+      "name": "Physiotherapy Assistant"
+    },
+    {
+      "name": "Pipe Trades"
+    },
+    {
+      "name": "Planetary Science and Space Exploration"
+    },
+    {
+      "name": "Planning"
+    },
+    {
+      "name": "Plastics processing technology"
+    },
+    {
+      "name": "Plumbing"
+    },
+    {
+      "name": "Police Science"
+    },
+    {
+      "name": "Police Studies"
+    },
+    {
+      "name": "Policy & Management"
+    },
+    {
+      "name": "Policy research on Asia Pacific region"
+    },
+    {
+      "name": "Policy Studies"
+    },
+    {
+      "name": "Political Science"
+    },
+    {
+      "name": "Political Science - European Studies Concentration"
+    },
+    {
+      "name": "Political Science - Public Administration"
+    },
+    {
+      "name": "Political Scienve"
+    },
+    {
+      "name": "Political Studies"
+    },
+    {
+      "name": "Politics"
+    },
+    {
+      "name": "Politics"
+    },
+    {
+      "name": "Popular Culture"
+    },
+    {
+      "name": "Population Health"
+    },
+    {
+      "name": "Population Health Risk Assessment and Management"
+    },
+    {
+      "name": "Power Engineering"
+    },
+    {
+      "name": "Power Engineering Technician"
+    },
+    {
+      "name": "Power Engineering Technician - Accelerated"
+    },
+    {
+      "name": "Power Engineering Technology"
+    },
+    {
+      "name": "Power Engineering Technology - Accelerated"
+    },
+    {
+      "name": "Power Engineering Technology - Chemical"
+    },
+    {
+      "name": "Powerline Technician"
+    },
+    {
+      "name": "Practial Nursing"
+    },
+    {
+      "name": "Practical Horticulture"
+    },
+    {
+      "name": "Practical Nurse"
+    },
+    {
+      "name": "Practical Nursing"
+    },
+    {
+      "name": "Pre-Medicine"
+    },
+    {
+      "name": "Préparation aux services de pension dans la fonction publique fédérale (French only)"
+    },
+    {
+      "name": "Préparation aux services de rénumération dans la fonction publique fédérale (French only)"
+    },
+    {
+      "name": "Pre-Social Work"
+    },
+    {
+      "name": "Primary Care Paramedic"
+    },
+    {
+      "name": "Primary Care Pharmacy Residency"
+    },
+    {
+      "name": "Primary Health Care Worker"
+    },
+    {
+      "name": "Printmaking"
+    },
+    {
+      "name": "Process and Supply Chain Management"
+    },
+    {
+      "name": "Process Automation"
+    },
+    {
+      "name": "Process Operations 4th Class Power Engineering"
+    },
+    {
+      "name": "Process Systems Engineering"
+    },
+    {
+      "name": "Production & Operations Management"
+    },
+    {
+      "name": "Production Management"
+    },
+    {
+      "name": "Professional Baking"
+    },
+    {
+      "name": "Professional Communication"
+    },
+    {
+      "name": "Professional Golf Management"
+    },
+    {
+      "name": "Professional Management"
+    },
+    {
+      "name": "Professional Master's Program in Big Data"
+    },
+    {
+      "name": "Professional Master's Program: Mechatronic Product Realization"
+    },
+    {
+      "name": "Professional Photography"
+    },
+    {
+      "name": "Professional Psychology"
+    },
+    {
+      "name": "Professional Translation"
+    },
+    {
+      "name": "Professional Writing"
+    },
+    {
+      "name": "Program Evaluation"
+    },
+    {
+      "name": "program_of_study_e"
+    },
+    {
+      "name": "Programmer Analyst: Internet Option"
+    },
+    {
+      "name": "Programming"
+    },
+    {
+      "name": "Project Management"
+    },
+    {
+      "name": "Project Management - Information Technology"
+    },
+    {
+      "name": "Protection"
+    },
+    {
+      "name": "PSCTest"
+    },
+    {
+      "name": "Psychiatric Nursing"
+    },
+    {
+      "name": "Psychoeducation"
+    },
+    {
+      "name": "Psychoeducation - 2-210-1-1"
+    },
+    {
+      "name": "Psychoeducation - 2-210-1-1"
+    },
+    {
+      "name": "Psychoeducation 2-210-1-1"
+    },
+    {
+      "name": "Psycholinguistics"
+    },
+    {
+      "name": "Psychology"
+    },
+    {
+      "name": "Psychology - Intervention Profile"
+    },
+    {
+      "name": "Psychology - Research and Intervention Profile"
+    },
+    {
+      "name": "Psychology - Research Profile"
+    },
+    {
+      "name": "Psychology (Biopsychology)"
+    },
+    {
+      "name": "Psychology and Computer Science"
+    },
+    {
+      "name": "Psychology of labour and organizations - 322017"
+    },
+    {
+      "name": "Psychology of labour and organizations - 322018"
+    },
+    {
+      "name": "Public Accounting"
+    },
+    {
+      "name": "Public Accounting (Chartered Accounting)"
+    },
+    {
+      "name": "Public Administration"
+    },
+    {
+      "name": "Public Administration - Juris Doctor (M.P.A.-J.D.)"
+    },
+    {
+      "name": "Public Administration and Law"
+    },
+    {
+      "name": "Public Administration/Political Science"
+    },
+    {
+      "name": "Public Affairs"
+    },
+    {
+      "name": "Public Affairs and International Relations"
+    },
+    {
+      "name": "Public Affairs and Policy Management"
+    },
+    {
+      "name": "Public and Applied Folklore"
+    },
+    {
+      "name": "Public and International Affairs"
+    },
+    {
+      "name": "Public and International Politics"
+    },
+    {
+      "name": "Public Communication"
+    },
+    {
+      "name": "Public Health"
+    },
+    {
+      "name": "Public Health and Safety"
+    },
+    {
+      "name": "Public Health in Emergency Management"
+    },
+    {
+      "name": "Public Health Leadership"
+    },
+    {
+      "name": "Public History"
+    },
+    {
+      "name": "Public Management"
+    },
+    {
+      "name": "Public Policies"
+    },
+    {
+      "name": "Public Policy Analysis"
+    },
+    {
+      "name": "Public Policy and Administration"
+    },
+    {
+      "name": "Public Policy and Administration"
+    },
+    {
+      "name": "Public Policy and Global Affairs"
+    },
+    {
+      "name": "Public Policy and Public Administration"
+    },
+    {
+      "name": "Public Policy Studies"
+    },
+    {
+      "name": "Public Relations"
+    },
+
+    {
+      "name": "Public Sector Management"
+    },
+    {
+      "name": "Public Service"
+    },
+    {
+      "name": "Publishing"
+    },
+    {
+      "name": "Pulp and Paper Process Technician"
+    },
+    {
+      "name": "Pulp and Paper Technology"
+    },
+    {
+      "name": "Pure and Applied Mathematics"
+    },
+    {
+      "name": "Pure Math (Options in Finance"
+    },
+    {
+      "name": "Pure Mathematics"
+    },
+    {
+      "name": "Pure Mathematics / Teaching"
+    },
+    {
+      "name": "Quality Assurance"
+    },
+    {
+      "name": "Quality Engineering Technician - Non Destructive Evaluation (NDE)"
+    },
+    {
+      "name": "Quality Systems Engineering"
+    },
+    {
+      "name": "Quantitative Management Methods"
+    },
+    {
+      "name": "Radio Television Journalism"
+    },
+
+    {
+      "name": "Real Estate"
+    },
+    {
+      "name": "Real Estate and Housing"
+    },
+    {
+      "name": "Real Estate Appraisal"
+    },
+    {
+      "name": "Real Property Development"
+    },
+    {
+      "name": "Records"
+    },
+    {
+      "name": "Recreation"
+    },
+    {
+      "name": "Recreation and Health Education"
+    },
+    {
+      "name": "Recreation and Leisure Services"
+    },
+    {
+      "name": "Recreation and Leisure Studies"
+    },
+    {
+      "name": "Recreation and Sport Administration"
+    },
+    {
+      "name": "Refrigeration & Air Conditioning"
+    },
+    {
+      "name": "Refrigeration & Air Conditioning Geothermal"
+    },
+    {
+      "name": "Regional and Community Planning"
+    },
+    {
+      "name": "Regional planning and regional development"
+    },
+    {
+      "name": "Regulatory Affairs"
+    },
+    {
+      "name": "Regulatory Affairs - Sciences"
+    },
+    {
+      "name": "Religion & Culture"
+    },
+    {
+      "name": "Religion"
+    },
+    {
+      "name": "Religious Studies"
+    },
+    {
+      "name": "Remote Sensing"
+    },
+    {
+      "name": "Renewable Resource Management"
+    },
+    {
+      "name": "Renovation Construction Technician"
+    },
+    {
+      "name": "Research Analyst"
+    },
+    {
+      "name": "Research Practicum"
+    },
+    {
+      "name": "Resource and Environmental Management"
+    },
+    {
+      "name": "Resource-Based Tourism"
+    },
+    {
+      "name": "Restoration of Natural Systems"
+    },
+    {
+      "name": "Retail Management"
+    },
+    {
+      "name": "Retailing and Services"
+    },
+    {
+      "name": "Risk Analysis"
+    },
+    {
+      "name": "Risk Assessment"
+    },
+    {
+      "name": "Risk Management and Financial Engineering"
+    },
+    {
+      "name": "Risk Management and Insurance"
+    },
+    {
+      "name": "Risk Management Insurance and Finance"
+    },
+    {
+      "name": "Robotics and Industrial Automation"
+    },
+    {
+      "name": "Robotics Engineering"
+    },
+    {
+      "name": "Romance Studies"
+    },
+    {
+      "name": "Russian and Slavic Studies"
+    },
+    {
+      "name": "Russian Studies"
+    },
+    {
+      "name": "Safety Engineering Technology"
+    },
+    {
+      "name": "Science"
+    },
+    {
+      "name": "Science & Business"
+    },
+    {
+      "name": "Science Laboratory"
+    },
+    {
+      "name": "Science Laboratory Technology"
+    },
+    {
+      "name": "Sciences"
+    },
+    {
+      "name": "Sciences of the Image and Digital Media"
+    },
+    {
+      "name": "Scientific Computation/Applied Math"
+    },
+    {
+      "name": "Scientific Computing"
+    },
+    {
+      "name": "Scientific Computing and Numerical Methods"
+    },
+    {
+      "name": "Screen Arts"
+    },
+    {
+      "name": "Sculpture and Installation"
+    },
+    {
+      "name": "Secretarial Studies"
+    },
+    {
+      "name": "Secretariat"
+    },
+    {
+      "name": "Secretariat Studies"
+    },
+    {
+      "name": "Secreterial Studies"
+    },
+    {
+      "name": "Security"
+    },
+    {
+      "name": "Security and Police Studies"
+    },
+    {
+      "name": "Service Management"
+    },
+    {
+      "name": "Sheet Metal Worker Pre-Apprenticeship"
+    },
+    {
+      "name": "Small Business Administration"
+    },
+    {
+      "name": "Small Business and Entrepreneurship"
+    },
+    {
+      "name": "Small Business Management"
+    },
+    {
+      "name": "Snow Resort Fundamentals"
+    },
+    {
+      "name": "Snow Resort Operations"
+    },
+    {
+      "name": "Social and Political Thought"
+    },
+    {
+      "name": "Social Communication"
+    },
+    {
+      "name": "Social Innovation and Non-profit Studies"
+    },
+    {
+      "name": "Social Justice"
+    },
+    {
+      "name": "Social Justice & Equity Studies"
+    },
+    {
+      "name": "Social Media and Web Marketing"
+    },
+    {
+      "name": "Social Policy Issues"
+    },
+    {
+      "name": "Social Sciences"
+    },
+    {
+      "name": "Social Services"
+    },
+    {
+      "name": "Social Studies"
+    },
+    {
+      "name": "Social Work"
+    },
+    {
+      "name": "Social Work - Bachelor"
+    },
+    {
+      "name": "Social Work - Master"
+    },
+    {
+      "name": "Social Work Technique"
+    },
+    {
+      "name": "Sociology"
+    },
+    {
+      "name": "Sociology - Quantitative methodology"
+    },
+    {
+      "name": "sociology and Criminolgy"
+    },
+    {
+      "name": "Sociology and Social Studies"
+    },
+    {
+      "name": "Sociology/Anthropology"
+    },
+    {
+      "name": "Software"
+    },
+    {
+      "name": "Software Design"
+    },
+    {
+      "name": "Software Development"
+    },
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Software Engineering and Management"
+    },
+    {
+      "name": "Software Engineering and Society"
+    },
+    {
+      "name": "Software Engineering Technology"
+    },
+    {
+      "name": "Software Engineering/Software Engineering and Management"
+    },
+    {
+      "name": "Software Systems"
+    },
+    {
+      "name": "Software Systems Engineering"
+    },
+    {
+      "name": "Space and Communication Sciences"
+    },
+    {
+      "name": "Space Engineering"
+    },
+    {
+      "name": "Spanish"
+    },
+    {
+      "name": "Spanish American Studies"
+    },
+    {
+      "name": "Spatial Information Systems"
+    },
+    {
+      "name": "Special Events Management"
+    },
+    {
+      "name": "Speech Science"
+    },
+    {
+      "name": "Sport and Event Marketing"
+    },
+    {
+      "name": "Sport and Physical Education"
+    },
+    {
+      "name": "Sport Management"
+    },
+    {
+      "name": "Sport Psychology"
+    },
+    {
+      "name": "Sports Administration"
+    },
+    {
+      "name": "Sports and Leisure Management"
+    },
+    {
+      "name": "Sports and Recreation Administration"
+    },
+    {
+      "name": "Sports and Recreation Management"
+    },
+    {
+      "name": "Stage & Screen Studies"
+    },
+    {
+      "name": "Statistics"
+    },
+    {
+      "name": "Steamfitting/Pipefitting"
+    },
+    {
+      "name": "Strategic Foresight & Innovation"
+    },
+    {
+      "name": "Strategic Management"
+    },
+    {
+      "name": "Strategic Marketing"
+    },
+    {
+      "name": "Strategic Relationship Marketing"
+    },
+    {
+      "name": "Strategic studies"
+    },
+    {
+      "name": "Strategy"
+    },
+    {
+      "name": "Strategy of cultural and media production"
+    },
+    {
+      "name": "Structural Engineering Technology"
+    },
+    {
+      "name": "Structural Steel Management and Detailing"
+    },
+    {
+      "name": "Supply Chain and Logistics"
+    },
+    {
+      "name": "Supply Chain and Operations Management"
+    },
+    {
+      "name": "Supply Chain Management"
+    },
+    {
+      "name": "Supply Chain Management-Global Logistics Post Graduate Program"
+    },
+    {
+      "name": "Supply Chain Operations Management"
+    },
+    {
+      "name": "Survey Technician"
+    },
+    {
+      "name": "Sustainability"
+    },
+    {
+      "name": "Sustainability Management"
+    },
+    {
+      "name": "Sustainable and Renewable Energy Engineering"
+    },
+    {
+      "name": "Sustainable Construction Management Technology"
+    },
+    {
+      "name": "Sustainable Development"
+    },
+    {
+      "name": "Sustainable Development Management"
+    },
+    {
+      "name": "Sustainable Energy Policy"
+    },
+    {
+      "name": "System Analyst"
+    },
+    {
+      "name": "Systems"
+    },
+    {
+      "name": "Systems Analyst"
+    },
+    {
+      "name": "Systems Design Engineering"
+    },
+    {
+      "name": "Taxation"
+    },
+    {
+      "name": "Teaching English as a Second Language"
+    },
+    {
+      "name": "Technical Communication"
+    },
+    {
+      "name": "Technical Industrial Electonics"
+    },
+    {
+      "name": "Technical Writer"
+    },
+    {
+      "name": "Technique d'intégration multimédia"
+    },
+    {
+      "name": "Techniques de bureautique"
+    },
+    {
+      "name": "Technologie de la géomatique - géodésie"
+    },
+    {
+      "name": "Technologie de la mécanique du bâtiment"
+    },
+    {
+      "name": "Technologie de l'électronique"
+    },
+    {
+      "name": "Technologie de l'électronique - Ordinateurs et réseaux"
+    },
+    {
+      "name": "Technologie de l'électronique - Télécommunications"
+    },
+    {
+      "name": "Technologie de l'électronique industrielle"
+    },
+    {
+      "name": "Technology - Nautical Science"
+    },
+    {
+      "name": "Technology Management"
+    },
+    {
+      "name": "Technology of Building Mechanics"
+    },
+    {
+      "name": "Telecommunications and Information Security"
+    },
+    {
+      "name": "Telecommunications Technician - Electronics"
+    },
+    {
+      "name": "Territorial planification and local development"
+    },
+    {
+      "name": "Theatre"
+    },
+    {
+      "name": "Theatre Design and Production"
+    },
+    {
+      "name": "Theatre Directing"
+    },
+    {
+      "name": "Theatre History"
+    },
+    {
+      "name": "Theoretical Computer Science"
+    },
+    {
+      "name": "Theoretical Physics"
+    },
+    {
+      "name": "Therapeutic Recreation"
+    },
+    {
+      "name": "Tool and Die Technician"
+    },
+    {
+      "name": "Tourism"
+    },
+    {
+      "name": "Tourism and Eco-tourism Development"
+    },
+    {
+      "name": "Tourism and Hospitality Management"
+    },
+    {
+      "name": "Tourism and Recreation Administration"
+    },
+    {
+      "name": "Tourism and Travel"
+    },
+    {
+      "name": "Tourism and Travel Counsellor"
+    },
+    {
+      "name": "Tourism and Travel Management"
+    },
+    {
+      "name": "Tourism Development"
+    },
+    {
+      "name": "Tourism Hospitality"
+    },
+    {
+      "name": "Tourism Management"
+    },
+    {
+      "name": "Tourism Management - Business Development (Co-op)"
+    },
+    {
+      "name": "Tourism Techniques"
+    },
+  
+    {
+      "name": "Tourism/Marketing"
+    },
+    {
+      "name": "Toxicology"
+    },
+    {
+      "name": "Translation"
+    },
+    {
+      "name": "Transport logistics"
+    },
+    {
+      "name": "Transportation Engineering Technology"
+    },
+    {
+      "name": "U.S. Studies"
+    },
+    {
+      "name": "Underwater Vehicles"
+    },
+    {
+      "name": "Urban Analysis Management"
+    },
+    {
+      "name": "Urban and Regional Planning"
+    },
+    {
+      "name": "Urban and Regional Studies"
+    },
+    {
+      "name": "Urban Forestry Technician"
+    },
+    {
+      "name": "Urban studies"
+    },
+    {
+      "name": "Urbanism"
+    },
+    {
+      "name": "Urbanisme"
+    },
+    {
+      "name": "Utility Line Work Construction & Maintenance"
+    },
+    {
+      "name": "Vegetal Biology"
+    },
+    {
+      "name": "Veterinary Assistant/Receptionist"
+    },
+    {
+      "name": "Visual Arts"
+    },
+    {
+      "name": "Visual Arts and Computer Science"
+    },
+    {
+      "name": "Visual Communications"
+    },
+    {
+      "name": "Visual Media Technology"
+    },
+    {
+      "name": "Viticulture Technician"
+    },
+    {
+      "name": "Water and Wastewater"
+    },
+    {
+      "name": "Water engineering"
+    },
+    {
+      "name": "Water Engineering Technology"
+    },
+    {
+      "name": "Water Quality"
+    },
+    {
+      "name": "Water Quality Technician"
+    },
+    {
+      "name": "Water Resource Planning"
+    },
+    {
+      "name": "Water Resources Engineering"
+    },
+    {
+      "name": "Water Resources Engineering Technology"
+    },
+    {
+      "name": "Water sciences"
+    },
+    {
+      "name": "Web"
+    },
+    {
+      "name": "Web and Desktop Programming"
+    },
+    {
+      "name": "Web Animation and Design"
+    },
+    {
+      "name": "Web programmer/Webmaster"
+    },
+    {
+      "name": "Web Services and Applications"
+    },
+    {
+      "name": "Web Site Development and Electronic Commerce"
+    },
+    {
+      "name": "Welder"
+    },
+    {
+      "name": "Welding and Fabrication Techniques"
+    },
+    {
+      "name": "Welding Diploma"
+    },
+    {
+      "name": "Welding Engineering Technician"
+    },
+    {
+      "name": "Welding Engineering Technology"
+    },
+    {
+      "name": "Welding Inspection & Quality Control"
+    },
+    {
+      "name": "Welding Inspection and Quality"
+    },
+    {
+      "name": "Wireless Communication and Computer Networks"
+    },
+    {
+      "name": "Women & Gender Studies"
+    },
+    {
+      "name": "Women's & Gender Studies"
+    },
+    {
+      "name": "Women's and Gender Studies"
+    },
+    {
+      "name": "Women's Studies"
+    },
+    {
+      "name": "Wood Engineering"
+    },
+    {
+      "name": "Wood Products Processing"
+    },
+    {
+      "name": "Wood Working"
+    },
+    {
+      "name": "Woodworking Technology"
+    },
+    {
+      "name": "Woodworking Technology - Architectural Millwork"
+    },
+    {
+      "name": "Working Knowledge Co-op Program"
+    },
+    {
+      "name": "Workplace Health"
+    },
+    {
+      "name": "World Literature"
+    },
+    {
+      "name": "Writing"
+    },
+    {
+      "name": "Writing & Editing"
+    },
+    {
+      "name": "Youth Worker"
+    }
+  ]
+}
