@@ -25,11 +25,11 @@ const Home = () => {
             </Heading>
           </Center>
           <Text align="center">
-            Are you a highschool student looking to get a better understanding
-            of what your degree of choice is actually going to be like. Look no
-            futher! Degree IRL is a collection of honest student made review
-            that tell you what current students which they knew before they
-            choose their current degree!
+            Are you a high school student looking to get a better understanding
+            of what your degree of choice is actually going to be like? Look no
+            further! Degree IRL is a collection of honest student-made reviews
+            that tell you what past and current students which they knew before
+            they choose their degree!
           </Text>
 
           <Flex>
