@@ -1,7 +1,37 @@
-import '../styles/globals.css'
+import { ThemeProvider, CSSReset } from '@chakra-ui/react';
+import { Global, css } from '@emotion/react';
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
-}
+import customTheme from '@/styles/theme';
 
-export default MyApp
+const GlobalStyle = ({ children }) => {
+  return (
+    <>
+      <CSSReset />
+      <Global
+        styles={css`
+          html {
+            min-width: 360px;
+            scroll-behavior: smooth;
+          }
+          #__next {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+          }
+        `}
+      />
+      {children}
+    </>
+  );
+};
+
+const App = ({ Component, pageProps }) => {
+  return (
+    <ThemeProvider theme={customTheme}>
+      <GlobalStyle />
+      <Component {...pageProps} />
+    </ThemeProvider>
+  );
+};
+
+export default App;

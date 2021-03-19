@@ -1,0 +1,688 @@
+{
+    "universities" : [
+		{
+		  "name": "Saskatchewan Polytechnic"
+		},
+		{
+		  "name": "Academy Canada (Corner Brook)"
+		},
+		{
+		  "name": "Academy Canada (St-John's - Harding Road)"
+		},
+		{
+		  "name": "Academy Canada (St-John's - Kenmount Road)"
+		},
+		{
+		  "name": "Acadia University"
+		},
+		{
+		  "name": "Adler University"
+		},
+		{
+		  "name": "Algoma University"
+		},
+		{
+		  "name": "Algonquin College of Applied Arts and Technology (Ottawa)"
+		},
+		{
+		  "name": "Algonquin College of Applied Arts and Technology (Pembroke)"
+		},
+		{
+		  "name": "Antioch University Seattle"
+		},
+		{
+		  "name": "Assiniboine Community College"
+		},
+		{
+		  "name": "Athabasca University"
+		},
+		{
+		  "name": "Aurora College"
+		},
+		{
+		  "name": "Bishop's University"
+		},
+		{
+		  "name": "Bow Valley College"
+		},
+		{
+		  "name": "Brandon University"
+		},
+		{
+		  "name": "Brescia University College"
+		},
+		{
+		  "name": "British Columbia Institute of Technology (BCIT)"
+		},
+		{
+		  "name": "Brock University"
+		},
+		{
+		  "name": "Burman University"
+		},
+		{
+		  "name": "Cambrian College"
+		},
+		{
+		  "name": "Camosun College (Interurban)"
+		},
+		{
+		  "name": "Camosun College (Lansdowne)"
+		},
+		{
+		  "name": "Canadian Mennonite University"
+		},
+		{
+		  "name": "Canadore College"
+		},
+		{
+		  "name": "Cape Breton University"
+		},
+		{
+		  "name": "Capilano University"
+		},
+		{
+		  "name": "Carleton University"
+		},
+		{
+		  "name": "CDI College (Montreal)"
+		},
+		{
+		  "name": "Cégep André-Laurendeau"
+		},
+		{
+		  "name": "Cégep de Chicoutimi"
+		},
+		{
+		  "name": "Cégep de Drummondville"
+		},
+		{
+		  "name": "Cégep de Jonquière"
+		},
+		{
+		  "name": "Cégep de la Gaspésie et des Îles"
+		},
+		{
+		  "name": "Cégep de l'Outaouais"
+		},
+		{
+		  "name": "Cégep de Matane"
+		},
+		{
+		  "name": "Cégep de Rimouski"
+		},
+		{
+		  "name": "Cégep de Sainte-Foy"
+		},
+		{
+		  "name": "Cégep de Saint-Félicien"
+		},
+		{
+		  "name": "Cégep de Saint-Hyacinthe"
+		},
+		{
+		  "name": "Cégep de Saint-Jérôme"
+		},
+		{
+		  "name": "Cégep de Sept-Îles"
+		},
+		{
+		  "name": "Cégep de Sorel-Tracy"
+		},
+		{
+		  "name": "Cégep de Thetford"
+		},
+		{
+		  "name": "Cégep de Trois-Rivières"
+		},
+		{
+		  "name": "Cégep de Victoriaville"
+		},
+		{
+		  "name": "Cégep Édouard-Montpetit"
+		},
+		{
+		  "name": "Cégep Garneau"
+		},
+		{
+		  "name": "Cégep Gérald-Godin"
+		},
+		{
+		  "name": "Cégep Heritage College"
+		},
+		{
+		  "name": "Cégep Limoilou"
+		},
+		{
+		  "name": "Cégep Marie-Victorin"
+		},
+		{
+		  "name": "Cégep régional de Lanaudière (L'Assomption)"
+		},
+		{
+		  "name": "Cégep Saint-Jean-sur-Richelieu"
+		},
+		{
+		  "name": "Centennial College"
+		},
+		{
+		  "name": "Centre de formation professionnelle Compétences Outaouais"
+		},
+		{
+		  "name": "Centre de formation professionnelle Marie-Rollet"
+		},
+		{
+		  "name": "Centre de formation professionnelle Memphrémagog"
+		},
+		{
+		  "name": "Centre de formation professionnelle Relais de la Lièvre-Seigneurie"
+		},
+		{
+		  "name": "Centre de formation professionnelle Vision-Avenir"
+		},
+		{
+		  "name": "Champlain College St-Lambert"
+		},
+		{
+		  "name": "City University of Seattle"
+		},
+		{
+		  "name": "Collège Ahuntsic"
+		},
+		{
+		  "name": "Collège Bart"
+		},
+		{
+		  "name": "Collège Boréal"
+		},
+		{
+		  "name": "Collège communautaire du Nouveau-Brunswick CCNB (Dieppe)"
+		},
+		{
+		  "name": "Collège communautaire du Nouveau-Brunswick CCNB (Edmundston)"
+		},
+		{
+		  "name": "Collège d'Alma"
+		},
+		{
+		  "name": "Collège de Maisonneuve"
+		},
+		{
+		  "name": "Collège de Rosemont"
+		},
+		{
+		  "name": "Collège de Valleyfield"
+		},
+		{
+		  "name": "Collège Ellis (Drummondville)"
+		},
+		{
+		  "name": "Collège Ellis (Trois-Rivières)"
+		},
+		{
+		  "name": "Collège Marsan"
+		},
+		{
+		  "name": "Collège MultiHexa (Chicoutimi)"
+		},
+		{
+		  "name": "College of New Caledonia"
+		},
+		{
+		  "name": "College of North Atlantic (Gander Campus)"
+		},
+		{
+		  "name": "College of the North Atlantic (Corner Brook)"
+		},
+		{
+		  "name": "College of the North Atlantic (Prince Philip)"
+		},
+		{
+		  "name": "College of the North Atlantic (Ridge Road)"
+		},
+		{
+		  "name": "Collège O'Sullivan de Québec"
+		},
+		{
+		  "name": "Collège Shawinigan"
+		},
+		{
+		  "name": "Concordia University of Edmonton"
+		},
+		{
+		  "name": "Concordia University of Montreal"
+		},
+		{
+		  "name": "Conestoga College"
+		},
+		{
+		  "name": "Confederation College"
+		},
+		{
+		  "name": "Crandall University"
+		},
+		{
+		  "name": "Dalhousie University"
+		},
+		{
+		  "name": "Dawson College"
+		},
+		{
+		  "name": "Douglas College"
+		},
+		{
+		  "name": "Durham College"
+		},
+		{
+		  "name": "Eastern Academy (St. John's"
+		},
+		{
+		  "name": "Eastern College (Charlottetown"
+		},
+		{
+		  "name": "Eastern College (Fredericton"
+		},
+		{
+		  "name": "Eastern College (Halifax"
+		},
+		{
+		  "name": "Eastern College (Moncton"
+		},
+		{
+		  "name": "Eastern College (Saint John"
+		},
+		{
+		  "name": "Eastern College St John's"
+		},
+		{
+		  "name": "École de technologie supérieure"
+		},
+		{
+		  "name": "École du Barreau du Québec"
+		},
+		{
+		  "name": "École nationale d'administration publique (ENAP)"
+		},
+		{
+		  "name": "École nationale d'administration publique (ÉNAP)/ Montreal Campus - College"
+		},
+		{
+		  "name": "École nationale d'administration publique (ÉNAP)/ Quebec Campus - College"
+		},
+		{
+		  "name": "Fanshawe College"
+		},
+		{
+		  "name": "First Nations University of Canada"
+		},
+		{
+		  "name": "Fleming College"
+		},
+		{
+		  "name": "George Brown College"
+		},
+		{
+		  "name": "Georgian College"
+		},
+		{
+		  "name": "HEC Montréal"
+		},
+		{
+		  "name": "Holland College"
+		},
+		{
+		  "name": "Humber College"
+		},
+		{
+		  "name": "INRS - Université de recherche"
+		},
+		{
+		  "name": "Institut de technologie agroalimentaire (Saint-Hyacinthe)"
+		},
+		{
+		  "name": "institution_name_e"
+		},
+		{
+		  "name": "John Abbot College"
+		},
+		{
+		  "name": "Johnson Shoyama Graduate School of Public Policy"
+		},
+		{
+		  "name": "Keyano College"
+		},
+		{
+		  "name": "Kings University"
+		},
+		{
+		  "name": "Kwantlen Polytechnic University"
+		},
+		{
+		  "name": "La Cité - Collège d'arts appliqués et de technologie"
+		},
+		{
+		  "name": "Lakehead University"
+		},
+		{
+		  "name": "Lakeland College"
+		},
+		{
+		  "name": "Lambton College"
+		},
+		{
+		  "name": "Langara College"
+		},
+		{
+		  "name": "Laurentian University"
+		},
+		{
+		  "name": "Lethbridge College"
+		},
+		{
+		  "name": "Loyalist College"
+		},
+		{
+		  "name": "MacEwan University"
+		},
+		{
+		  "name": "Maritime College of Forest Technology"
+		},
+		{
+		  "name": "McGill University"
+		},
+		{
+		  "name": "McGill University / Faculty of Management"
+		},
+		{
+		  "name": "McMaster University"
+		},
+		{
+		  "name": "Medicine Hat College"
+		},
+		{
+		  "name": "Memorial University of Newfoundland"
+		},
+		{
+		  "name": "Metropolitan Community College"
+		},
+		{
+		  "name": "Mohawk College"
+		},
+		{
+		  "name": "Mount Allison University"
+		},
+		{
+		  "name": "Mount Royal University"
+		},
+		{
+		  "name": "Mount Saint Vincent University"
+		},
+		{
+		  "name": "New Brunswick Community College NBCC (Moncton)"
+		},
+		{
+		  "name": "New Brunswick Community College NBCC (Saint-John)"
+		},
+		{
+		  "name": "Niagara College"
+		},
+		{
+		  "name": "Nicola Valley Institute of Technology"
+		},
+		{
+		  "name": "North Island College"
+		},
+		{
+		  "name": "Northern Alberta Institute of Technology (NAIT)"
+		},
+		{
+		  "name": "Northern College of Applied Arts and Technology (Kirkland Lake)"
+		},
+		{
+		  "name": "Northern College of Applied Arts and Technology (Timmins)"
+		},
+		{
+		  "name": "Northwest Community College"
+		},
+		{
+		  "name": "Nova Scotia Community College"
+		},
+		{
+		  "name": "Nova Scotia Community College - Aviation institute"
+		},
+		{
+		  "name": "OCAD University"
+		},
+		{
+		  "name": "Okanagan College"
+		},
+		{
+		  "name": "Olds College"
+		},
+		{
+		  "name": "O'Sullivan College of Montreal"
+		},
+		{
+		  "name": "Polytechnique Montréal"
+		},
+		{
+		  "name": "Portage College (Lac La Biche)"
+		},
+		{
+		  "name": "Providence University College"
+		},
+		{
+		  "name": "Queen's University"
+		},
+		{
+		  "name": "Quest University Canada"
+		},
+		{
+		  "name": "Red Deer College"
+		},
+		{
+		  "name": "Red River College"
+		},
+		{
+		  "name": "Redeemer University College"
+		},
+		{
+		  "name": "Reeves College"
+		},
+		{
+		  "name": "Royal Roads University"
+		},
+		{
+		  "name": "Ryerson University"
+		},
+		{
+		  "name": "Saint Mary's University"
+		},
+		{
+		  "name": "Sault College"
+		},
+		{
+		  "name": "Selkirk College"
+		},
+		{
+		  "name": "Séminaire de Sherbrooke"
+		},
+		{
+		  "name": "Seneca College"
+		},
+		{
+		  "name": "Sheridan College"
+		},
+		{
+		  "name": "Simon Fraser University"
+		},
+		{
+		  "name": "Southern Alberta Institute of Technology (SAIT)"
+		},
+		{
+		  "name": "St. Clair College (Windsor)"
+		},
+		{
+		  "name": "St. Francis Xavier University"
+		},
+		{
+		  "name": "St. Lawrence College (Kingston)"
+		},
+		{
+		  "name": "St. Lawrence College of Applied Arts and Technology"
+		},
+		{
+		  "name": "St. Thomas University"
+		},
+		{
+		  "name": "Teccart Institution"
+		},
+		{
+		  "name": "The Law Society of Upper Canada"
+		},
+		{
+		  "name": "Thompson Rivers University"
+		},
+		{
+		  "name": "Trent University (Peterborough)"
+		},
+		{
+		  "name": "Trinity Western University"
+		},
+		{
+		  "name": "Trios College"
+		},
+		{
+		  "name": "Université de Moncton"
+		},
+		{
+		  "name": "Université de Moncton (Shippagan)"
+		},
+		{
+		  "name": "Université de Montréal"
+		},
+		{
+		  "name": "Université de Saint-Boniface"
+		},
+		{
+		  "name": "Université de Sherbrooke"
+		},
+		{
+		  "name": "Université du Québec à Chicoutimi (UQAC)"
+		},
+		{
+		  "name": "Université du Québec à Montréal (UQAM)"
+		},
+		{
+		  "name": "Université du Québec à Rimouski (UQAR)"
+		},
+		{
+		  "name": "Université du Québec à Trois-Rivières (UQTR)"
+		},
+		{
+		  "name": "Université du Québec en Outaouais (UQO)"
+		},
+		{
+		  "name": "Université Laval"
+		},
+		{
+		  "name": "Université Sainte-Anne (Pointe-de-l'Église)"
+		},
+		{
+		  "name": "University of Alberta"
+		},
+		{
+		  "name": "University of British Columbia (Okanagan)"
+		},
+		{
+		  "name": "University of British Columbia (Vancouver)"
+		},
+		{
+		  "name": "University of Calgary"
+		},
+		{
+		  "name": "University of Fredericton"
+		},
+		{
+		  "name": "University of Guelph"
+		},
+		{
+		  "name": "University of Guelph-Humber"
+		},
+		{
+		  "name": "University of Lethbridge"
+		},
+		{
+		  "name": "University of Manitoba"
+		},
+		{
+		  "name": "University of New Brunswick (Fredericton)"
+		},
+		{
+		  "name": "University of New Brunswick (Saint John)"
+		},
+		{
+		  "name": "University of Northern British Columbia"
+		},
+		{
+		  "name": "University of Ontario Institute of Technology (UOIT)"
+		},
+		{
+		  "name": "University of Ottawa"
+		},
+		{
+		  "name": "University of Prince Edward Island"
+		},
+		{
+		  "name": "University of Regina"
+		},
+		{
+		  "name": "University of Saskatchewan"
+		},
+		{
+		  "name": "University of Sudbury"
+		},
+		{
+		  "name": "University of the Fraser Valley"
+		},
+		{
+		  "name": "University of Toronto"
+		},
+		{
+		  "name": "University of Victoria"
+		},
+		{
+		  "name": "University of Waterloo"
+		},
+		{
+		  "name": "University of Windsor"
+		},
+		{
+		  "name": "University of Winnipeg"
+		},
+		{
+		  "name": "Vancouver Island University"
+		},
+		{
+		  "name": "Vanier College"
+		},
+		{
+		  "name": "West Island Career Centre"
+		},
+		{
+		  "name": "Western Quebec Career Centre"
+		},
+		{
+		  "name": "Western University"
+		},
+		{
+		  "name": "Wilfrid Laurier University"
+		},
+		{
+		  "name": "York University"
+		},
+		{
+		  "name": "Yukon College"
+		}
+	  ]
+}
