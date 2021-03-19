@@ -29,7 +29,7 @@ const Home = () => {
             of what your degree of choice is actually going to be like? Look no
             further! Degree IRL is a collection of honest student-made reviews
             that tell you what past and current students which they knew before
-            they choose their degree!
+            they chose their degree!
           </Text>
 
           <Flex>
