@@ -144,7 +144,7 @@ const ReviewForm = () => {
         </FormControl>
         <FormControl mb={9}>
           <FormLabel>
-            What is your every day life as a student in your program consist of
+            What is your everyday life as a student in your program consist of
             (Lots of project, lots of reading and writing essays........)
           </FormLabel>
           <Textarea
@@ -164,7 +164,7 @@ const ReviewForm = () => {
         </FormControl>
         <FormControl mb={9}>
           <FormLabel>
-            What do you wish you knew about this program when you where applying
+            What do you wish you knew about this program when you were applying
           </FormLabel>
           <Textarea
             placeholder="Who the hell said this degree has a lot of math! I suck at math and I'm doing fine"
@@ -178,7 +178,7 @@ const ReviewForm = () => {
           />
           <FormHelperText>
             Put your self in the shoes of your grade 12 self, what did you
-            want/wish you knew that you didn't or couldnt find out
+            want/wish you knew that you didn't or couldn't find out
           </FormHelperText>
         </FormControl>
         <FormControl mb={9}>
@@ -223,12 +223,12 @@ const ReviewForm = () => {
                 Thank you so much for providing your honest feedback. The form
                 is supposed to clear after you click the PULL THE LEVEL KRONK
                 button so that you know that it was submitted, but I made a
-                mistake in my code and I am runing out of time to sumbit this
+                mistake in my code and I am running out of time to submit this
                 project. So I put this pop up here to ensure that the
                 information that you inputted has been submitted.
                 <br />
                 <br />
-                If you like you can view other peoples reviews by going to the
+                If you like you can view other people's reviews by going to the
                 programs tab located at the top.
                 <br />
                 <br /> Thanks again.
