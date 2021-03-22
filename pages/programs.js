@@ -7,12 +7,18 @@ import useSWR from 'swr';
 import DashboardShell from '@/components/DashboardShell';
 
 import ProgramsTable from '@/components/ProgramsTable';
+import EmptyProgramsTable from '@/components/EmptyProgramsTable';
 
 const ProgramsPage = () => {
   const { data } = useSWR('/api/programs', fetcher);
+  console.log(data);
 
   if (!data) {
-    return <DashboardShell></DashboardShell>;
+    return (
+      <DashboardShell>
+        <EmptyProgramsTable></EmptyProgramsTable>
+      </DashboardShell>
+    );
   }
 
   return (

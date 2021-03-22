@@ -11,6 +11,8 @@ import DashboardShell from '@/components/DashboardShell';
 //import SiteHeader from '@/components/SiteHeader';
 //import LoginButtons from '@/components/LoginButtons';
 import ReviewsTable from '@/components/ReviewsTable';
+import EmptyReviewsTable from '@/components/EmptyReviewsTable';
+import EmptyProgramsTable from '@/components/EmptyProgramsTable';
 
 const ProgramReviewsPage = () => {
   const router = useRouter();
@@ -79,7 +81,7 @@ const ProgramReviewsPage = () => {
   if (!programReviews) {
     return (
       <DashboardShell>
-        <Text>Easter Egg</Text>
+        <EmptyReviewsTable></EmptyReviewsTable>
       </DashboardShell>
     );
   }
