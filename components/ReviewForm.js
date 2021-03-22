@@ -68,8 +68,9 @@ const ReviewForm = () => {
           }
         };*/
 
-  const onCreateReview = (stuff) => {
+  const onCreateReview = (stuff, e) => {
     createReview(stuff);
+    e.target.reset();
   };
 
   return (
@@ -220,12 +221,7 @@ const ReviewForm = () => {
             <ModalCloseButton />
             <ModalBody>
               <Text>
-                Thank you so much for providing your honest feedback. The form
-                is supposed to clear after you click the PULL THE LEVEL KRONK
-                button so that you know that it was submitted, but I made a
-                mistake in my code and I am running out of time to submit this
-                project. So I put this pop up here to ensure that the
-                information that you inputted has been submitted.
+                Thank you so much for providing your honest feedback.
                 <br />
                 <br />
                 If you like you can view other people's reviews by going to the
