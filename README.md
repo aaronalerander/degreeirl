@@ -1,3 +1,10 @@
+Are you a high school student looking to get a better understanding of what your degree of choice is actually going to be like? Look no further! Degree IRL is a collection of honest student-made reviews that tell you what past and current students which they knew before they chose their degree!
+
+
+This application is made with next.js, chakra-ui, firebase and deployed on vercel
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
